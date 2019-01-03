@@ -1,0 +1,58 @@
+Title: Contact
+
+----
+
+Text: 
+
+## Info
+Als selbstständiger Grafikdesigner arbeitet Jonas Ganz seit 2004 in Biel/Bienne. Der Arbeitsbereich umfasst unter Anderem die Konzeption und Gestaltung von visuellen Identitäten mit Spezialisierung auf Logos und Bildmarken, Erscheinungsbilder, Bücher, Broschüren, Plakate, Schallplattencover sowie Webseiten. Reduktion und klare Formen prägen die Ausdrucksweise der Arbeit.
+
+Seit 2004 selbstständig tätig als Grafiker in Biel
+2004 – 2018 Freelancer für diverse Werbeagenturen und Grafikateliers 2000 – 2004 Fachklasse Grafik, Schule für Gestaltung Biel
+1999 – 2000 Vorkurs, Schule für Gestaltung Biel
+1981 geboren in Biel
+
+## Kunden
+Acoustic Desaster Records, Biel; Architekturforum Biel; Atuprix, Auszeichnung Berner Baukultur; Berner Design Stiftung, Bern; Boeglikramp Architekten, Fribourg; Brainstore, BielBCD AG, Biel; CARE Kinderwunschpraxis, BielCosiX, Biel; Cranio Norman, St. Gallen; Dr. Christoph Zbären, Biel; Duck N' Cover Records, Zürich; Ecofort GmbH, Nidau; Esther-Lisette Ganz, Künstlerin, Tramelan; Exa.soft GmbH, Bern; Feathered Apple Records, Basel; Filmpodium, Biel; Formel zwei, Bern; Gesellschaft Schweizer Tierärztinnen und Tierärzte, Thörishaus; Gilgen Door Systems, Schwarzenburg; Giovanni Cancellara, Biel; Girard Lena, Alexander- Technik, Biel; Grabenöle Lüterswil; Grip climbing, Biel; Hans, Hausarzt Notfall Seeland, Aarberg; Heim Decor, Biel; Hirt AG, Evilard; IMG, Interessengemeinschaft Medizinische Grundversorgung, Bern; Jelmoli, Zürich; Kando, Felix Mosimann, Biel; Kirchgemeinde Erlach-Tschugg; Kong. funktion gestaltung, Biel; Kunstverein Biel; Mediteam, Gampelen; Meyer Burger Technology AG, Gwatt; :mlzd Architekten, Biel; Nacht der 1000 Fragen, Biel; Netzwerk Grenchen; Nullneun Architektur, Nidau; PANArt Hangbau AG, Bern; Praxis Oehler, Büren an der Aare; Pro Espace, Nidau; REFBB, Biel; Romandie 1952, Nidau; Schiess Christophe, Komponist, Biel; Seelandnet, Schüpfen; Spital Aarberg; Stepping Stone GmbH, Bern
+
+© 2001 – 2018 Jonas Ganz & Partners
+Impressum: Fotos Anthal Thoma Fotografie, Jonas Ganz; Programmierung: Kilian Bohnenblust
+
+----
+
+Intro: Please feel free to say HELLO
+
+----
+
+Contactoptions: 
+
+- 
+  title: Contact
+  text: >
+    Feel free to drop us a line if you have
+    any questions.
+  url: mailto:support@getkirby.com
+  linktext: Write an email
+  icon: contact.svg
+- 
+  title: Forum
+  text: >
+    Join the Kirby community and connect
+    with others.
+  url: https://forum.getkirby.com/
+  linktext: Visit Kirby’s forum
+  icon: forum.svg
+- 
+  title: GitHub
+  text: >
+    Report Kirby-related issues directly on
+    GitHub.
+  url: https://github.com/getkirby
+  linktext: Kirby on GitHub
+  icon: github.svg
+- 
+  title: Docs
+  text: "Check out Kirby's detailed tutorials and instructions."
+  url: https://getkirby.com/docs
+  linktext: Documentation
+  icon: docs.svg

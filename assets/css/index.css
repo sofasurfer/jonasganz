@@ -1,0 +1,184 @@
+
+@font-face {
+  font-family: 'Grotex';
+  src: url(../fonts/Grotex-Regular.woff) format("woff");
+}
+
+html,
+body{
+    color: white;
+    background-color: black;
+    font-family: Grotex, Helvetica, Arial, sans-serif;    
+  word-wrap: break-word;    
+}
+
+h1,h3,h3,p,
+a{
+    font-family: Grotex, Helvetica, Arial, sans-serif;
+}
+a{
+    color: black;
+}
+a.light{
+    color: white;
+}
+a:hover{
+    color: #BFBFBF;
+    text-decoration: none;
+}
+
+.navigation{
+    opacity: 0;
+    z-index: 999;
+    position: absolute;
+    background-color: white;
+
+    width:500px;
+
+    top: 80px;
+    right: 0px;
+    margin-bottom: 0px;
+    height: 0px;
+}
+
+.menu{
+    display: none;
+    padding-top: 60px;
+    padding-left: 40px;
+}
+
+.menu a{
+    color: black;
+}
+.menu a:hover{
+    color: #BFBFBF;
+}
+
+input[type=checkbox]{
+    display: none;
+}
+input[type=checkbox]:checked ~ .navigation{
+    opacity: 1;
+    bottom: 0px;
+    height: 100%;    
+}
+input[type=checkbox]:checked ~ nav .menu{
+    display: block;
+}
+input[type=checkbox]:checked ~ header .nav-opener{
+    transform: rotate(90deg);    
+}
+.nav-opener{
+    line-height: 20px;
+}
+
+
+.bg-dark2{
+    height: 80px;
+    background-color: black!important;
+    border-bottom: solid 1px white;
+}
+
+.branding{
+    color: white;
+    font-size: 40px;
+    font-family: Grotex, Helvetica, Arial, sans-serif;
+    line-height: 40px;
+}
+
+.branding:hover{
+    color: #BFBFBF;
+    text-decoration: none;
+}
+
+.container.main{
+    padding-top: 40px;
+}
+
+.arrow-top{
+    cursor: pointer;
+    font-size: 40px;
+    font-family: Grotex, Helvetica, Arial, sans-serif;    
+}
+
+.container-light{
+    background-color: white;
+    color: black;
+    padding-bottom: 20px;
+
+}
+.container-dark{
+    padding-bottom: 20px;
+}
+
+footer{
+    margin-top: 0px;
+    height: 80px;
+    border-top: solid 1px white;
+}
+
+.btn-footer{
+    color: white;
+    font-size: 40px;
+    line-height: 80px;
+    font-family: Grotex, Helvetica, Arial, sans-serif;
+}
+
+
+.showcase-thumb{
+    margin-bottom: 40px;
+}
+
+.showcase-thumb a{
+    color: white;
+}
+
+.img-thumbnail{
+    border-radius: 0;
+    border: none;
+    background-color: transparent;
+}
+
+.showcase-link {
+    display: block;
+    position:relative;
+    transition-duration: 0.1s;    
+}
+
+.showcase-link:hover{
+    background-color: #262626;
+}
+
+.showcase-link .showcase-caption{
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    opacity: 0;
+    top: 40%;
+    transition-duration: 0.1s;    
+
+}
+
+.showcase-link:hover .showcase-caption{
+    opacity: 1;
+}
+
+.showcase-link:hover .img-thumbnail{
+    opacity: 0;
+    background: #262626;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .nav-opener{
+        position: fixed;
+        top: 35px;
+        right: 40px;
+    }
+
+}
+
+
+
+
