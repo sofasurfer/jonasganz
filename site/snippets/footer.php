@@ -3,10 +3,14 @@
 
 </div>
 <footer class="text-muted">
-  <div class="container">
-    <p class="float-right">
-      <a href="/contact" class="btn-footer">Info</a>
-    </p>
+  <div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+          <p class="float-right">
+            <a href="/contact" class="btn-footer">Info</a>
+          </p>
+        </div>
+    </div>
   </div>
 </footer>
 

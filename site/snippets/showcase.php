@@ -36,8 +36,8 @@ if(isset($limit)) $projects = $projects->limit($limit);
         </a>
     </div>
     <?php if( $ic == 1 ): ?>
-      <div class="col-md-4 showcase-thumb float-right text-right">
-          <?= $page->text()->kirbytext() ?>
+      <div class="col-md-4 showcase-thumb float-right">
+          <div class="text-right"><?= $page->text()->kirbytext() ?></div>
       </div>
     <?php endif; ?>
     <?php $ic++; ?>

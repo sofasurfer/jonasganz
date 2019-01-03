@@ -2,6 +2,7 @@
 @font-face {
   font-family: 'Grotex';
   src: url(../fonts/Grotex-Regular.woff) format("woff");
+  font-weight: 100;
 }
 
 html,
@@ -9,7 +10,7 @@ body{
     color: white;
     background-color: black;
     font-family: Grotex, Helvetica, Arial, sans-serif;    
-  word-wrap: break-word;    
+    word-wrap: break-word;    
 }
 
 h1,h3,h3,p,
@@ -26,6 +27,16 @@ a:hover{
     color: #BFBFBF;
     text-decoration: none;
 }
+p{
+    font-size: 1.1rem;    
+}
+
+
+
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto{
+    padding-left: 30px;
+    padding-right: 30px;
+}
 
 .navigation{
     opacity: 0;
@@ -33,7 +44,7 @@ a:hover{
     position: absolute;
     background-color: white;
 
-    width:500px;
+    width: 33.33%;
 
     top: 80px;
     right: 0px;
@@ -53,6 +64,14 @@ a:hover{
 .menu a:hover{
     color: #BFBFBF;
 }
+.nav-opener{
+    cursor: pointer;
+    margin-right: 10px;    
+    transform: rotate(90deg);
+}
+svg.arrow{
+    width: 20px;
+}
 
 input[type=checkbox]{
     display: none;
@@ -66,8 +85,13 @@ input[type=checkbox]:checked ~ nav .menu{
     display: block;
 }
 input[type=checkbox]:checked ~ header .nav-opener{
-    transform: rotate(90deg);    
+    transform: rotate(180deg);    
 }
+svg.arrow:hover .cls-3,
+input[type=checkbox]:checked ~ header svg.arrow .cls-3{
+    fill: #BFBFBF;
+}
+
 .nav-opener{
     line-height: 20px;
 }
@@ -91,8 +115,15 @@ input[type=checkbox]:checked ~ header .nav-opener{
     text-decoration: none;
 }
 
-.container.main{
-    padding-top: 40px;
+.container.main,
+.container-fluid.main{
+    padding-top: 60px;
+}
+
+.container,
+.container-fluid{
+    padding-left: 40px;
+    padding-right: 40px;    
 }
 
 .arrow-top{
@@ -104,11 +135,11 @@ input[type=checkbox]:checked ~ header .nav-opener{
 .container-light{
     background-color: white;
     color: black;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 
 }
 .container-dark{
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 footer{
@@ -124,16 +155,23 @@ footer{
     font-family: Grotex, Helvetica, Arial, sans-serif;
 }
 
+.text-right{
+    padding-right: 5px;
+}
 
 .showcase-thumb{
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 }
 
 .showcase-thumb a{
     color: white;
 }
+.showcase-thumb a:hover{
+    color: #BFBFBF;
+}
 
 .img-thumbnail{
+    padding: 0;
     border-radius: 0;
     border: none;
     background-color: transparent;

@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 <div class="container-dark">
-  <div class="container main" role="main">
+  <div class="container-fluid main" role="main">
 
     <div class="row">
 
