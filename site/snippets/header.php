@@ -20,10 +20,10 @@
   <div class="bg-dark2" id="navbarHeader">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-6 py-4">
+        <div class="col-xs-8 col-sm-6 col-md-6 py-4">
           <a href="<?= url() ?>" class="branding" rel="home"><?= $site->title()->html() ?></a>
         </div>
-        <div class="col-md-6 py-4">
+        <div class="col-xs-4 col-sm-6 col-md-6 py-4">
           <div class="float-right">
             <label for="navmenu" class="text-white nav-opener">
 
