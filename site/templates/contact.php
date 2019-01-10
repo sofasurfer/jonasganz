@@ -9,7 +9,9 @@
     </div>
 
     <div class="col-md-6">
-      
+      <div class="contact-info">
+        <?= $page->intro()->kirbytext() ?>
+      </div>
       <?php
       // Images for the "project" template are sortable. You
       // can change the display by clicking the 'edit' button
@@ -20,8 +22,6 @@
         </figure>
       <?php endforeach ?>
       
-      <?= $page->intro() ?>
-
       <?php //snippet('prevnext') ?>
 
     </div>

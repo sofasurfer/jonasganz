@@ -10,7 +10,13 @@ body{
     color: white;
     background-color: black;
     font-family: Grotex, Helvetica, Arial, sans-serif;    
-    word-wrap: break-word;    
+    word-wrap: break-word;  
+
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
 }
 
 h1,h3,h3,p,
@@ -150,7 +156,7 @@ input[type=checkbox]:checked ~ header svg.arrow .cls-3{
 
 }
 .container-dark{
-    padding-bottom: 40px;
+    padding-bottom: 65px;
 }
 
 .p-title{
@@ -159,6 +165,11 @@ input[type=checkbox]:checked ~ header svg.arrow .cls-3{
 }
 .intro.text{
     margin-bottom: 25px;
+}
+
+.contact-info{
+    text-align: right;
+    margin-bottom: 80px;
 }
 
 footer{
@@ -186,9 +197,11 @@ footer{
     margin-bottom: 80px;
 }
 
+.contact-info a,
 .showcase-thumb a{
     color: white;
 }
+.contact-info a:hover,
 .showcase-thumb a:hover{
     color: #BFBFBF;
 }
