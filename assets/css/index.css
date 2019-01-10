@@ -34,7 +34,7 @@ a:hover{
     text-decoration: none;
 }
 p{
-    font-size: 1.1rem;    
+    font-size: 21px;    
 }
 
 #navbarHeader{
@@ -80,6 +80,12 @@ p{
 .menu-item{
     font-size: 22px;
 }
+
+.menu-item.is-active a{
+    color: #BFBFBF;
+}
+
+
 .nav-opener{
     cursor: pointer;
     margin-right: 10px;    
