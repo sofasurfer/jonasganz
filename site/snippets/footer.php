@@ -6,9 +6,9 @@
   <div class="container-fluid">
     <div class="row">
         <div class="col-md-12">
-          <p class="float-right">
+          <div class="float-right">
             <a href="/contact" class="btn-footer">Info</a>
-          </p>
+          </div>
         </div>
     </div>
   </div>
