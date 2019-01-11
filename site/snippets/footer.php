@@ -24,6 +24,17 @@ $('.grid').masonry({
 
 });    
 
+    if( $('.p-detail').length  ){
+
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 280) {
+              $('#navmenu').prop('checked', true);
+            } else {
+              $('#navmenu').prop('checked', false);
+            }
+        });
+    }
+
 </script>
 </body>
 </html>

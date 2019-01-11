@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<div class="container-light">
+<div class="container-light p-detail">
   <div class="container-fluid main" role="main">
 
     <div class="row">

@@ -23,6 +23,9 @@ h1,h3,h3,p,
 a{
     font-family: Grotex, Helvetica, Arial, sans-serif;
 }
+h2{
+    margin-bottom: 40px;
+}
 a{
     color: black;
 }
@@ -163,6 +166,10 @@ input[type=checkbox]:checked ~ header svg.arrow .cls-3{
 }
 .container-dark{
     padding-bottom: 65px;
+}
+
+.container-dark p{
+    margin-bottom: 25px;
 }
 
 .p-title{
