@@ -11,3 +11,11 @@ Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo l
 ----
 
 Purl: 
+
+----
+
+Thumbnail: grabenoele_2000px.jpg
+
+----
+
+Imglist: 

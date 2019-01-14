@@ -10,9 +10,11 @@
       // Images for the "project" template are sortable. You
       // can change the display by clicking the 'edit' button
       // above the files list in the sidebar.
-      foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
-        <figure>
-          <img src="<?= $image->url() ?>" class="img-thumbnail" alt="<?= $page->title()->html() ?>" />
+      foreach($page->imglist()->toStructure() as $image): ?>
+        <figure class="img-<?= $image->location(); ?>">
+          <img src="<?= $image->image()->toFile()->url() ?>" class="img-thumbnail" alt="<?= $image->title(); ?>" />
+          <?php $caption = ( !$image->title()->empty() ) ? $image->title() : '&nbsp;' ; ?>
+          <div class="caption"><?= $caption; ?></div>
         </figure>
       <?php endforeach ?>
           

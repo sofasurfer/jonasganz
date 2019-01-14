@@ -16,3 +16,11 @@ Die Stiftung Auszeichnung Berner Baukultur zeichnet private, öffentliche und in
 ----
 
 Purl: 
+
+----
+
+Thumbnail: atu_2000px.jpg
+
+----
+
+Imglist: 

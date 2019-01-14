@@ -11,3 +11,37 @@ Text:
 ----
 
 Purl: 
+
+----
+
+Thumbnail: f4_trademarks_2008-2018_081118_2000px_v2.jpg
+
+----
+
+Imglist: 
+
+- 
+  title: Title 1
+  location: full
+  url: logos_duo_kando_2000px.jpg
+  image: logos_duo_kando_2000px.jpg
+- 
+  title: Title 2
+  location: full
+  image: logos_duo_romandie_2000px.jpg
+- 
+  title: Title 3
+  location: half
+  image: kando-logo_2000px.jpg
+- 
+  title: Title 4
+  location: half
+  image: kando_bild_2000px.jpg
+- 
+  title: Title 6
+  location: half
+  image: logo_romandie_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: logo_romandie_2_2000px.jpg

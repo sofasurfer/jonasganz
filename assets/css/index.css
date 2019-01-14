@@ -256,6 +256,26 @@ footer{
     background: #262626;
 }
 
+figure.img-half,
+figure.img-full{
+    margin: 0px;
+}
+
+figure.img-half{
+    width: calc( 50% - 42px );
+    display: inline-block;
+    margin-right: 40px;
+}
+figure.img-half:nth-child(even) {
+    margin-right: 0px;
+    margin-left: 40px;
+}
+
+figure .caption{
+    height: 80px;
+    line-height: 80px;
+}
+
 
 @media only screen and (max-width: 600px) {
     .branding{

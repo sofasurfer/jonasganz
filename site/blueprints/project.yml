@@ -24,3 +24,25 @@ fields:
   purl:
     label: Website
     type:  url
+
+  thumbnail:
+    label: Thumbimage
+    type:  image
+
+  imglist:
+    label: Images
+    type: structure
+    style: table
+    fields:
+      title:
+        label: Title
+        type: text
+      location:
+        label: Size
+        type: select
+        options:
+          full: Full
+          half: Half
+      image:
+        label: Image
+        type: image

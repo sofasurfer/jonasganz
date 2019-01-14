@@ -7,7 +7,11 @@
     <div class="row">
         <div class="col-md-12">
           <div class="float-right">
-            <a href="/contact" class="btn-footer">Info</a>
+            <?php if( $page->slug() == 'contact'): ?>
+                <a href="mailto:post@jonasganz.ch" class="btn-footer">Say HELLO</a>
+            <?php else: ?>
+                <a href="/contact" class="btn-footer">Info</a>
+            <?php endif; ?>
           </div>
         </div>
     </div>

@@ -26,7 +26,7 @@ if(isset($limit)) $projects = $projects->limit($limit);
 
     <div class="col-sm-6 col-md-4 showcase-thumb">
         <a href="<?= $project->url() ?>" class="showcase-link">
-          <?php if($image = $project->images()->sortBy('sort', 'asc')->first()): $thumb = $image->crop(600, 600); ?>
+          <?php if($image = $project->thumbnail()->toFile() ): $thumb = $image->crop(600, 600); ?>
             <img src="<?= $image->url() ?>" alt="Thumbnail for <?= $project->title()->html() ?>" class="img-thumbnail" />
           <?php endif ?>
           <div class="showcase-caption">

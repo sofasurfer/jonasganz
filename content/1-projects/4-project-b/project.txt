@@ -16,3 +16,11 @@ Gestaltung des Booklet 13_13 für das Architekturbüro :mlzd in Biel.
 ----
 
 Purl: 
+
+----
+
+Thumbnail: mlzd_cover_2000px.jpg
+
+----
+
+Imglist: 

@@ -15,3 +15,11 @@ Straight from the eye of the storm.
 ----
 
 Purl: 
+
+----
+
+Thumbnail: clent_lp_2000px.jpg
+
+----
+
+Imglist: 

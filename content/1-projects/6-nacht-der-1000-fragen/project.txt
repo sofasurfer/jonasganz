@@ -11,3 +11,11 @@ Text: Nacht der 1000 Fragen – Das Zeitfestival in Biel
 ----
 
 Purl: 
+
+----
+
+Thumbnail: 1000fragen_2000px.jpg
+
+----
+
+Imglist: 
