@@ -17,8 +17,6 @@ body{
 
 }
 
-}
-
 h1,h3,h3,p,
 a{
     font-family: Grotex, Helvetica, Arial, sans-serif;
@@ -182,7 +180,7 @@ input[type=checkbox]:checked ~ header svg.arrow .cls-3{
 
 .contact-info{
     text-align: right;
-    margin-bottom: 80px;
+    margin-bottom: 75px;
 }
 
 footer{
@@ -274,6 +272,7 @@ figure.img-half:nth-child(even) {
 figure .caption{
     height: 80px;
     line-height: 80px;
+    font-size: 21px;    
 }
 
 
