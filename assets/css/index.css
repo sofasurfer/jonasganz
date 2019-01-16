@@ -371,7 +371,8 @@ figure .caption{
         width: 100%;
     }
     
-    header .container-fluid{
+    header .container-fluid,
+    footer .container-fluid{
         padding-left: 0px;
         padding-right: 0px;
     }
@@ -387,6 +388,7 @@ figure .caption{
     .p-title{
         padding-top: 0px;
     }
+    .p-line,
     figure.img-full{
         margin-left: -30px;
         margin-right: -30px;
