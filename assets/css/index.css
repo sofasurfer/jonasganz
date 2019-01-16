@@ -92,9 +92,7 @@ small p{
     right: 0px;
     margin-bottom: 0px;
 
-    display: none;
-
-
+    /*transition: all 0.9s ease;*/
 }
 
 .menu{
@@ -136,7 +134,6 @@ input[type=checkbox]{
 }
 input[type=checkbox]:checked ~ .navigation{
     opacity: 1;
-    display: block;
     bottom: 0px;
 }
 input[type=checkbox]:checked ~ nav .menu{
@@ -145,6 +142,10 @@ input[type=checkbox]:checked ~ nav .menu{
 input[type=checkbox]:checked ~ header .nav-opener{
     transform: rotate(90deg);    
 }
+input[type=checkbox]:checked ~ .p-fixed{
+    display: none;
+}
+
 svg.arrow:hover .cls-3,
 input[type=checkbox]:checked ~ header svg.arrow .cls-3{
     fill: #BFBFBF;
