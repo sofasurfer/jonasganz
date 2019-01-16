@@ -24,7 +24,7 @@ if(isset($limit)) $projects = $projects->limit($limit);
   <?php $ic = 0; ?>
   <?php foreach($projects as $project): ?>
 
-    <div class="col-sm-6 col-md-4 showcase-thumb">
+    <div class="col-xs-4 col-sm-6 col-md-4 showcase-thumb">
         <a href="<?= $project->url() ?>" class="showcase-link">
           <?php if($image = $project->thumbnail()->toFile() ): $thumb = $image->crop(600, 600); ?>
             <img src="<?= $image->url() ?>" alt="Thumbnail for <?= $project->title()->html() ?>" class="img-thumbnail" />
@@ -36,7 +36,7 @@ if(isset($limit)) $projects = $projects->limit($limit);
         </a>
     </div>
     <?php if( $ic == 1 ): ?>
-      <div class="col-sm-6 col-md-4 showcase-thumb float-right">
+      <div class="col-xs-4 col-sm-6 col-md-4 showcase-thumb float-right">
           <div class="text-right"><?= $page->text()->kirbytext() ?></div>
       </div>
     <?php endif; ?>
