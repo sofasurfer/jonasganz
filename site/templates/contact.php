@@ -6,6 +6,12 @@
 
     <div class="col-md-6">
       <?= $page->text()->kirbytext() ?>
+      <h2>Kunden</h2>
+      <div class="col-wrap">
+        <div class="col-left"><?= $page->client1()->kirbytext() ?></div>
+        <div class="col-right"><?= $page->client2()->kirbytext() ?></div>
+      </div>
+      <small><?= $page->impressum()->kirbytext() ?></small>
     </div>
 
     <div class="col-md-6">

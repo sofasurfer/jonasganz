@@ -24,3 +24,44 @@ Thumbnail: atu_2000px.jpg
 ----
 
 Imglist: 
+
+- 
+  title: Jurybericht 2018
+  location: full
+  image: atu_2018_cover_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: atu_2018_inhalt_200px.jpg
+- 
+  title: ""
+  location: full
+  image: atu_2018_back_2000px.jpg
+- 
+  title: Webseite
+  location: half
+  image: atuprix_web_1_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: atuprix_web_2_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: atuprix_web_4_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: atuprix_web_3_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: atuprix_web_ipad_1_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: atuprix_web_ipad_2_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: atuprix_web_ipone_2000px.jpg

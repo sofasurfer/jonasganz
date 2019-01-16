@@ -23,15 +23,21 @@
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 
 <script>
+    $(document).ready(function() {
+        $('.grid').masonry({
 
-$('.grid').masonry({
-
-});    
+        });    
+    });
 
     if( $('.p-detail').length  ){
 
         $(window).scroll(function () {
-            if ($(this).scrollTop() > 280) {
+            var scrollHeight = $(document).height()-60;
+            var scrollPosition = $(window).height() + $(window).scrollTop();
+            console.log( 'h:' + scrollHeight + ' p:' + scrollPosition );
+
+            if (scrollHeight < scrollPosition) {
+            // if ($(this).scrollTop() > 280) {
               $('#navmenu').prop('checked', true);
             } else {
               $('#navmenu').prop('checked', false);

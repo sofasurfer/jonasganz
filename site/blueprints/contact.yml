@@ -18,3 +18,17 @@ fields:
   text:
     label: Text
     type: textarea
+
+  client1:
+    label: Client 1
+    type: textarea
+    width: 2/4
+
+  client2:
+    label: Client 2
+    type: textarea
+    width: 2/4
+
+  impressum:
+    label: Impressum
+    type: textarea

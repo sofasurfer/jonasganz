@@ -24,3 +24,36 @@ Thumbnail: mlzd_cover_2000px.jpg
 ----
 
 Imglist: 
+
+- 
+  title: ""
+  location: full
+  image: mlzd_cover_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: mlzd_1_neu_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: mlzd_2_neu_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: mlzd_3_neu_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: mlzd_4_neu_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: mlzd_5_neu_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: mlzd_6_neu_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: mlzd_detail_2000px.jpg

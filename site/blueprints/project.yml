@@ -37,12 +37,16 @@ fields:
       title:
         label: Title
         type: text
+      link:
+        label: Link
+        type: url        
       location:
         label: Size
         type: select
         options:
           full: Full
           half: Half
+          line: Line
       image:
         label: Image
         type: image
