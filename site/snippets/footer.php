@@ -34,7 +34,6 @@
         $(window).scroll(function () {
             var scrollHeight = $(document).height()-60;
             var scrollPosition = $(window).height() + $(window).scrollTop();
-            console.log( 'h:' + scrollHeight + ' p:' + scrollPosition );
 
             if (scrollHeight < scrollPosition) {
             // if ($(this).scrollTop() > 280) {

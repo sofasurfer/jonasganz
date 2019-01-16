@@ -24,6 +24,59 @@ Imglist:
   title: >
     Auszeichnung Berner Baukultur, 2015,
     Atuprix
+  link: ""
+  location: full
+  image: logos_atuprix_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Romandie 1952, Nidau, 2009
+  link: ""
+  location: full
+  image: logos_romandie_2000px.jpg
+- 
+  title: ""
+  link: ""
+  location: line
+  image: ""
+- 
+  title: Mediteam, Gampelen, 2012
+  link: ""
+  location: full
+  image: logos_mediteam_2000px.jpg
+- 
+  title: ""
+  link: ""
+  location: line
+  image: ""
+- 
+  title: >
+    1000 Fragen – Das Zeitfestival in
+    Biel, 2016
+  link: ""
+  location: full
+  image: logos_1000fragen_2000px.jpg
+- 
+  title: ""
+  link: ""
+  location: line
+  image: ""
+- 
+  title: Kando Leuchte Felix Mosiman, Biel, 2011
+  link: ""
+  location: full
+  image: logos_kando_2000px.jpg
+- 
+  title: ""
+  link: ""
+  location: line
+  image: ""
+- 
+  title: >
+    Auszeichnung Berner Baukultur, 2015,
+    Atuprix
   location: half
   image: logo_atuprix_2000px.jpg
   link: http://www.atu-prix.ch/
@@ -31,10 +84,6 @@ Imglist:
   title: ""
   location: half
   image: atuprix_bild_2000px.jpg
-- 
-  title: ""
-  location: line
-  image: ""
 - 
   title: Romandie 1952, Nidau, 2009
   location: half
@@ -44,11 +93,6 @@ Imglist:
   location: half
   image: logo_romandie_2_2000px.jpg
 - 
-  title: ""
-  link: ""
-  location: line
-  image: ""
-- 
   title: Mediteam, Gampelen, 2012
   location: half
   image: logo_mediteam_2000px.jpg
@@ -56,11 +100,6 @@ Imglist:
   title: ""
   location: half
   image: mediteam_bild_2000px.jpg
-- 
-  title: ""
-  link: ""
-  location: line
-  image: ""
 - 
   title: >
     1000 Fragen – Das Zeitfestival in
@@ -79,39 +118,3 @@ Imglist:
   title: ""
   location: half
   image: kando_bild_2000px.jpg
-- 
-  title: >
-    Auszeichnung Berner Baukultur, 2015,
-    Atuprix
-  location: half
-  image: logo_atuprix_grau_2000px.jpg
-- 
-  title: ""
-  location: half
-  image: atuprix_bild_2000px.jpg
-- 
-  title: >
-    1000 Fragen – Das Zeitfestival in
-    Biel, 2016
-  location: half
-  image: logo_1000fragen_grau_2000px.jpg
-- 
-  title: ""
-  location: half
-  image: 1000fragen_bild_grau_2000px.jpg
-- 
-  title: Kando Leuchte Felix Mosiman, Biel, 2011
-  location: half
-  image: logo_kando_grau_2000px.jpg
-- 
-  title: ""
-  location: half
-  image: kando_bild_2000px.jpg
-- 
-  title: Mediteam, Gampelen, 2012
-  location: half
-  image: logo_mediteam_grau_2000px.jpg
-- 
-  title: ""
-  location: half
-  image: mediteam_bild_grau_2000px.jpg

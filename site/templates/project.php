@@ -3,6 +3,22 @@
   <div class="container-fluid main" role="main">
 
     <div class="row">
+
+    <div class="col-md-3 p-fixed">
+      <h1 class="p-title"><?= $page->title()->html() ?></h1>
+      <p class="intro text">
+        → <?= $page->year() ?>
+      </p>
+
+      <?= $page->text()->kirbytext() ?>
+
+      <?php
+        if( $page->purl() ){
+          echo '<a class="p-link" href="' . $page->purl() . '" target="_blank">' . $page->purl() . '</a>';
+        }
+      ?>
+
+    </div>
     
     <div class="col-md-9">
       
@@ -65,21 +81,7 @@
     </div>
 
 
-    <div class="col-md-3 p-fixed">
-      <h1 class="p-title"><?= $page->title()->html() ?></h1>
-      <p class="intro text">
-        → <?= $page->year() ?>
-      </p>
 
-      <?= $page->text()->kirbytext() ?>
-
-      <?php
-        if( $page->purl() ){
-          echo '<a class="p-link" href="' . $page->purl() . '" target="_blank">' . $page->purl() . '</a>';
-        }
-      ?>
-
-    </div>
 
   </div>
 </div>
