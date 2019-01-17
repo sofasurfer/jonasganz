@@ -31,28 +31,34 @@ Imglist:
   image: mlzd_cover_2000px.jpg
 - 
   title: ""
+  link: ""
   location: full
-  image: mlzd_1_neu_2000px.jpg
+  image: mlzd_1_2000px.jpg
 - 
   title: ""
+  link: ""
   location: full
-  image: mlzd_2_neu_2000px.jpg
+  image: mlzd_2_2000px.jpg
 - 
   title: ""
+  link: ""
   location: full
-  image: mlzd_3_neu_2000px.jpg
+  image: mlzd_3_2000px.jpg
 - 
   title: ""
+  link: ""
   location: full
-  image: mlzd_4_neu_2000px.jpg
+  image: mlzd_4_2000px.jpg
 - 
   title: ""
+  link: ""
   location: full
-  image: mlzd_5_neu_2000px.jpg
+  image: mlzd_5_2000px.jpg
 - 
   title: ""
+  link: ""
   location: full
-  image: mlzd_6_neu_2000px.jpg
+  image: mlzd_6_2000px.jpg
 - 
   title: ""
   location: full

@@ -1,18 +1,29 @@
 
 @font-face {
-  font-family: 'Grotex';
-  src: url(../fonts/Grotex-Regular.woff) format("woff");
-  font-weight: 100;
+  font-family: 'Grotex-Regular';
+  src: url(../fonts/Grotex-Regular.otf) format("opentype");
+  font-weight: normal;
+  font-style: normal; 
 }
+
+
+
+.selector {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 
 html,
 body{
     color: white;
     background-color: black;
-    font-family: Grotex, Helvetica, Arial, sans-serif;    
+    font-family: Grotex-Regular, Helvetica, Arial, sans-serif;    
     word-wrap: break-word;  
 
     text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
 }
@@ -20,7 +31,7 @@ body{
 h1,h2,h3,h3,p,
 a{
     font-weight: 400;
-    font-family: Grotex, Helvetica, Arial, sans-serif;
+    font-family: Grotex-Regular, Helvetica, Arial, sans-serif;
 }
 h1{
     font-size: 28px;
@@ -165,7 +176,7 @@ input[type=checkbox]:checked ~ header svg.arrow .cls-3{
 .branding{
     color: white;
     font-size: 28px;
-    font-family: Grotex, Helvetica, Arial, sans-serif;
+    font-family: Grotex-Regular, Helvetica, Arial, sans-serif;
     line-height: 15px;
 }
 
@@ -189,7 +200,7 @@ input[type=checkbox]:checked ~ header svg.arrow .cls-3{
 .arrow-top{
     cursor: pointer;
     font-size: 30px;
-    font-family: Grotex, Helvetica, Arial, sans-serif;    
+    font-family: Grotex-Regular, Helvetica, Arial, sans-serif;    
 }
 
 .container-light{
@@ -230,7 +241,7 @@ footer{
     color: white;
     font-size: 28px;
     line-height: 60px;
-    font-family: Grotex, Helvetica, Arial, sans-serif;
+    font-family: Grotex-Regular, Helvetica, Arial, sans-serif;
 }
 
 
@@ -385,6 +396,10 @@ figure .caption{
         margin-bottom: 30px;
         padding-left: 30px;
         padding-right: 30px;
+    }
+    .col-md-3, .col-md-9{
+        flex: 0 0 100%;
+        max-width: 100%;        
     }
     .p-title{
         padding-top: 0px;

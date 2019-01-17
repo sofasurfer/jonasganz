@@ -4,7 +4,7 @@
 
     <div class="row">
 
-    <div class="col-md-3 p-fixed">
+    <div class="col-sm-12 col-md-3 p-fixed">
       <h1 class="p-title"><?= $page->title()->html() ?></h1>
       <p class="intro text">
         → <?= $page->year() ?>
@@ -20,7 +20,7 @@
 
     </div>
     
-    <div class="col-md-9">
+    <div class="col-sm-12 col-md-9">
       
       <?php
       // Images for the "project" template are sortable. You
