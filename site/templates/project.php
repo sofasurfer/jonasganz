@@ -14,7 +14,7 @@
 
       <?php
         if( $page->purl() ){
-          echo '<a class="p-link" href="' . $page->purl() . '" target="_blank">' . $page->purl() . '</a>';
+          echo '<div class="p-link">' . $page->purl()->kirbytext() . '</div>';
         }
       ?>
 
@@ -53,7 +53,6 @@
           if( !$image->link()->empty() ){
             $caption = '<a href="'.$image->link().'" target="_blank">'.$caption.'</a>';
           }
-
           ?>
 
           <figure class="img-<?= $image->location(); ?> <?= ($right) ? 'right' : 'left'; ?> ">

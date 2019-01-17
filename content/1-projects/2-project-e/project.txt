@@ -1,4 +1,4 @@
-Title: Grabenöle
+Title: Grabenöle Lüterswil
 
 ----
 
@@ -6,11 +6,14 @@ Year: Buchgestaltung, 2018
 
 ----
 
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+Text: 
+
+Wie kommt das Nussöl aus der Grabenöle zu seinem ganz speziellen Aroma? Welche Werke kann der kleine Mülibach über das mächtige Wasserrad antreiben? Wer lebte früher in diesem Haus, und wie lebten diese Menschen in den Räumen über dem Öleraum? Was brauchte es nach Jahrzehnten des Stillstands, um die ganze Anlage wieder in Schuss zu bringen? Diese und viele weitere Fragen zur Grabenöle einst und heute beantwortet das Buch in kurzen und kurzweiligen Kapiteln. Erklärende Illustrationen sowie aktuelle und historische Fotos laden zum Blättern, Lesen und Staunen ein. 
+48 Seiten, gebunden, Siebdruck auf Umschlag.
 
 ----
 
-Purl: 
+Purl: (link: http://grabenoele.ch/ text: www.grabenoele.ch)
 
 ----
 
@@ -19,3 +22,44 @@ Thumbnail: grabenoele_2000px.jpg
 ----
 
 Imglist: 
+
+- 
+  title: ""
+  link: ""
+  location: full
+  image: grabenoele_2000px.jpg
+- 
+  title: ""
+  link: ""
+  location: full
+  image: grabenoele_2000px_7.jpg
+- 
+  title: ""
+  link: ""
+  location: full
+  image: grabenoele_2000px_1.jpg
+- 
+  title: ""
+  link: ""
+  location: full
+  image: grabenoele_2000px_2.jpg
+- 
+  title: ""
+  link: ""
+  location: full
+  image: grabenoele_2000px_3.jpg
+- 
+  title: ""
+  link: ""
+  location: full
+  image: grabenoele_2000px_4.jpg
+- 
+  title: ""
+  link: ""
+  location: full
+  image: grabenoele_2000px_5.jpg
+- 
+  title: ""
+  link: ""
+  location: full
+  image: grabenoele_2000px_6.jpg

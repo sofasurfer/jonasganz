@@ -8,7 +8,7 @@
   <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
   <meta name="description" content="<?= $site->description()->html() ?>">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  <?= css('assets/css/index.css?v=2.5') ?>
+  <?= css('assets/css/index.css?v=3.9') ?>
 
 </head>
 <body>
@@ -20,7 +20,7 @@
   <div class="bg-dark2" id="navbarHeader">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-xs-8 col-sm-6 col-md-6 py-4">
+        <div class="col-xs-8 col-sm-6 col-md-6">
           <a href="<?= url() ?>" class="branding" rel="home"><?= $site->title()->html() ?></a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-6">

@@ -23,7 +23,7 @@ fields:
 
   purl:
     label: Website
-    type:  url
+    type:  textarea
 
   thumbnail:
     label: Thumbimage

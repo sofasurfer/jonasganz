@@ -85,6 +85,11 @@ Imglist:
   location: half
   image: atuprix_bild_2000px.jpg
 - 
+  title: ""
+  link: ""
+  location: line
+  image: ""
+- 
   title: Romandie 1952, Nidau, 2009
   location: half
   image: logo_romandie_2000px.jpg
@@ -93,6 +98,11 @@ Imglist:
   location: half
   image: logo_romandie_2_2000px.jpg
 - 
+  title: ""
+  link: ""
+  location: line
+  image: ""
+- 
   title: Mediteam, Gampelen, 2012
   location: half
   image: logo_mediteam_2000px.jpg
@@ -100,6 +110,11 @@ Imglist:
   title: ""
   location: half
   image: mediteam_bild_2000px.jpg
+- 
+  title: ""
+  link: ""
+  location: line
+  image: ""
 - 
   title: >
     1000 Fragen – Das Zeitfestival in
@@ -110,6 +125,11 @@ Imglist:
   title: ""
   location: half
   image: 1000fragen_bild_2_2000px.jpg
+- 
+  title: ""
+  link: ""
+  location: line
+  image: ""
 - 
   title: Kando Leuchte Felix Mosiman, Biel, 2011
   location: half
