@@ -32,11 +32,6 @@ Imglist:
   title: ""
   link: ""
   location: full
-  image: grabenoele_2000px_7.jpg
-- 
-  title: ""
-  link: ""
-  location: full
   image: grabenoele_2000px_1.jpg
 - 
   title: ""
@@ -47,19 +42,13 @@ Imglist:
   title: ""
   link: ""
   location: full
-  image: grabenoele_2000px_3.jpg
-- 
-  title: ""
-  link: ""
-  location: full
-  image: grabenoele_2000px_4.jpg
-- 
-  title: ""
-  link: ""
-  location: full
-  image: grabenoele_2000px_5.jpg
-- 
-  title: ""
-  link: ""
-  location: full
   image: grabenoele_2000px_6.jpg
+- 
+  title: ""
+  link: ""
+  location: full
+  image: grabenoele_2000px_7.jpg
+- 
+  title: ""
+  location: full
+  image: grabenoele_detail_2000px.jpg

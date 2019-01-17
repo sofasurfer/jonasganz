@@ -36,10 +36,7 @@ fields:
     fields:
       title:
         label: Title
-        type: text
-      link:
-        label: Link
-        type: url        
+        type: textarea      
       location:
         label: Size
         type: select
