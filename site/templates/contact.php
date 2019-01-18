@@ -4,7 +4,22 @@
 
     <div class="row">
 
-    <div class="col-md-6">
+    <div class="col-md-12 hide-desktop">
+      <div class="contact-info">
+        <?= $page->intro()->kirbytext() ?>
+      </div>
+      <?php
+      foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
+        <figure>
+          <img src="<?= $image->url() ?>" class="img-thumbnail" alt="<?= $page->title()->html() ?>" />
+        </figure>
+      <?php endforeach ?>
+      
+      <?php //snippet('prevnext') ?>
+
+    </div>
+
+    <div class="col-md-12 col-lg-6">
       <?= $page->text()->kirbytext() ?>
       <h2>Kunden</h2>
       <div class="col-wrap">
@@ -14,14 +29,11 @@
       <small><?= $page->impressum()->kirbytext() ?></small>
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-6 hide-mobile">
       <div class="contact-info">
         <?= $page->intro()->kirbytext() ?>
       </div>
       <?php
-      // Images for the "project" template are sortable. You
-      // can change the display by clicking the 'edit' button
-      // above the files list in the sidebar.
       foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
         <figure>
           <img src="<?= $image->url() ?>" class="img-thumbnail" alt="<?= $page->title()->html() ?>" />

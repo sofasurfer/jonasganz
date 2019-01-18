@@ -131,3 +131,27 @@ Imglist:
   title: nuIIneun architektur / Nidau / 2011
   location: half
   image: 09_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_img_2000px.jpg
+- 
+  title: IMG / Bern / 2008
+  location: half
+  image: img_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_bds_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: bds_bild_2000px.jpg

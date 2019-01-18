@@ -34,7 +34,7 @@
         }   
 
         if( $('.p-detail').length && !isMobile  ){
-
+            return false;
             $(window).scroll(function () {
                 var scrollHeight = $(document).height()-60;
                 var scrollPosition = $(window).height() + $(window).scrollTop();

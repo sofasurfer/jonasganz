@@ -50,21 +50,25 @@ h2{
     margin-bottom: 20px;
 }
 a{
-    color: black;
+    color: black;  
 }
+
 .container-light a{
     color: rgba(0,0,0,1);
-    text-decoration: underline;
+    border-bottom: solid 0.5px;
 }
+
 .container-light a:hover{
-    color: rgba(0,0,0,1);
+    color: #BFBFBF;
 }
+.text-right a,
 .container-dark a{
     color: rgba(255,255,255,1);
-    text-decoration: underline;
+    border-bottom: solid 0.5px;
 }
+.text-right a:hover,
 .container-dark a:hover{
-    color: rgba(255,255,255,1);
+    color: #BFBFBF;
 }
 a.light{
     color: white;
@@ -231,7 +235,7 @@ input[type=checkbox]:checked ~ header svg.arrow .cls-3{
 .container-light{
     background-color: white;
     color: black;
-    padding-bottom: 30px;
+    padding-bottom: 0px;
 
 }
 .container-dark{
@@ -397,11 +401,23 @@ figure.img-half.right {
 
 }
 
+.hide-desktop{
+    display: none;
+}
+
 
 @media only screen and (max-width: 768px) {
     html, body{
         overflow-x: hidden;
     }
+
+    .hide-mobile{
+        display: none;
+    }
+    .hide-desktop{
+        display: block;
+    }
+
     .menu{
         padding-top: 30px;
         padding-left: 30px;
@@ -416,7 +432,7 @@ figure.img-half.right {
     .nav-opener{
         position: fixed;
         top: 5px;
-        right: 10px;
+        right: 20px;
     }
     .navigation{
         width: 100%;
@@ -427,12 +443,26 @@ figure.img-half.right {
         padding-right: 0px;
     }
     footer .container-fluid{
-        padding-left: 30px;
-        padding-right: 30px;
+        padding-left: 40px;
+        padding-right: 40px;
     }
     footer .container-fluid .col-md-12{
         padding-left: 0px;
         padding-right: 0px;      
+    }
+
+    input[type=checkbox]:checked ~ main footer{
+        position: fixed;
+        bottom: 0px;
+    }
+
+    .contact-info{
+        margin-bottom: 30px;
+    }
+    .container-dark figure{
+        margin-left: -25px;
+        margin-right: -25px;
+        margin-bottom: 60px;
     }
     .p-fixed{
         position: relative;
@@ -447,11 +477,14 @@ figure.img-half.right {
         max-width: 100%;        
     }
 
-    .col-md-6, .col-sm-6{
+    .col-md-12, .col-sm-6, .col-ld-6{
         padding-left: 40px;
         padding-right: 40px;
     }
-
+    .col-sm-6{
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
     .p-title{
         padding-top: 0px;
     }
@@ -469,7 +502,10 @@ figure.img-half.right {
         padding-left: 0px;
         padding-right: 0px;
     }
-
+    .p-caption{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
     .showcase-thumb{
         margin-bottom: 30px;
     }
@@ -496,6 +532,7 @@ figure.img-half.right {
 
 @media only screen and (max-width: 576px) {
 
+
     .container-fluid.main{
         padding-top: 75px;
     }
@@ -505,7 +542,6 @@ figure.img-half.right {
     }
     .nav-opener{
         top: 0px;
-        right: 15px;
     }
     .navigation{
         top: 50px;
@@ -513,11 +549,9 @@ figure.img-half.right {
     }    
     .branding{
         font-size: 1.5rem;
+        line-height: 55px;
     }
-    .p-caption{
-        padding-left: 15px;
-        padding-right: 15px;
-    }
+
     figure .caption{
         font-size: 12px;        
     }
@@ -527,9 +561,20 @@ figure.img-half.right {
         margin-left: -15px;
         margin-right: -15px;
     }
-    input[type=checkbox]:checked ~ main footer{
-        position: fixed;
-        bottom: 0px;
+
+    .col-wrap{
+        display: block;
+    }
+    .col-left,
+    .col-right{
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+        display: block;
+        align-self: flex-start;
+    }
+    .col-left p{
+        margin-bottom: 0px;
     }
 
     .showcase-thumb{
