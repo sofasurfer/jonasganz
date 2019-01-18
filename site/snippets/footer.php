@@ -54,6 +54,14 @@
             });
         }
 
+        $('#navmenu').change(function() {
+            if($(this).is(":checked")) {
+                $('body').addClass('noscroll');
+            }else{
+                $('body').removeClass('noscroll');
+            }
+        });        
+
         $('main').imagesLoaded( function() {
             $('.grid').masonry({}); 
         });

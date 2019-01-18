@@ -28,6 +28,13 @@ body{
 
 }
 
+body.noscroll{
+    /*position:fixed;*/
+    overflow:hidden;
+    z-index: 0;
+    height: 1px;
+}
+
 h1,h2,h3,h3,p,
 a{
     font-weight: 400;
@@ -112,6 +119,8 @@ small p{
     position: fixed;
     background-color: white;
 
+    overflow-y: scroll;
+
     width: calc(24% + 60px);
 
     top: 60px;
@@ -158,6 +167,7 @@ svg.arrow{
 input[type=checkbox]{
     display: none;
 }
+
 input[type=checkbox]:checked ~ .navigation{
     opacity: 1;
     bottom: 0px;
@@ -373,15 +383,18 @@ figure.img-half.right {
 .p-caption{
 
     margin-top: -30px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .p-caption p{
     display: block;
-    line-height: 50px;
     font-size: 16px;
     padding: 0;
     margin: 0;
-    height: 30px;
+    /*height: 30px;*/
+
+    padding-top: 10px;
+    /*line-height: 50px;*/
+
 }
 
 
@@ -391,7 +404,7 @@ figure.img-half.right {
     }
     .menu{
         padding-top: 30px;
-        padding-left: 15px;
+        padding-left: 30px;
     }
 
     .branding{
@@ -409,10 +422,17 @@ figure.img-half.right {
         width: 100%;
     }
     
-    header .container-fluid,
-    footer .container-fluid{
+    header .container-fluid{
         padding-left: 0px;
         padding-right: 0px;
+    }
+    footer .container-fluid{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    footer .container-fluid .col-md-12{
+        padding-left: 0px;
+        padding-right: 0px;      
     }
     .p-fixed{
         position: relative;
@@ -426,6 +446,12 @@ figure.img-half.right {
         flex: 0 0 100%;
         max-width: 100%;        
     }
+
+    .col-md-6, .col-sm-6{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
     .p-title{
         padding-top: 0px;
     }
@@ -473,10 +499,7 @@ figure.img-half.right {
     .container-fluid.main{
         padding-top: 75px;
     }
-    .col-md-6, .col-sm-6{
-        padding-left: 40px;
-        padding-right: 40px;
-    }
+
     .bg-dark2{
         height: 50px;
     }
@@ -484,10 +507,17 @@ figure.img-half.right {
         top: 0px;
         right: 15px;
     }
+    .navigation{
+        top: 50px;
+        padding-bottom: 80px;
+    }    
     .branding{
         font-size: 1.5rem;
     }
-
+    .p-caption{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
     figure .caption{
         font-size: 12px;        
     }
@@ -497,7 +527,11 @@ figure.img-half.right {
         margin-left: -15px;
         margin-right: -15px;
     }
-    
+    input[type=checkbox]:checked ~ main footer{
+        position: fixed;
+        bottom: 0px;
+    }
+
     .showcase-thumb{
         width:50%;
     }

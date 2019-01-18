@@ -6,7 +6,7 @@ Year: Logos und Bildmarken, 2004–2018
 
 ----
 
-Text: 
+Text: Diverse Logo und Bildmarken
 
 ----
 
@@ -26,9 +26,7 @@ Imglist:
   image: logo_atuprix_2000px.jpg
   link: http://www.atu-prix.ch/
 - 
-  title: >
-    Auszeichnung Berner Baukultur, 2015,
-    Atuprix
+  title: 'Auszeichnung Berner Baukultur (link: http://www.atu-prix.ch/text: Atuprix) / 2015'
   location: half
   image: atuprix_bild_2000px.jpg
 - 
@@ -41,9 +39,21 @@ Imglist:
   location: half
   image: logo_romandie_2000px.jpg
 - 
-  title: Romandie 1952, Nidau, 2009
+  title: Romandie 1952 / Nidau / 2009
   location: half
   image: logo_romandie_2_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_1000fragen_2000px.jpg
+- 
+  title: '(link: https://www.1000-fragen.ch/text: Nacht der 1000 Fragen) – Das Zeitfestival in Biel / 2016'
+  location: half
+  image: 1000fragen_bild_3_2000px.jpg
 - 
   title: ""
   link: ""
@@ -54,7 +64,7 @@ Imglist:
   location: half
   image: logo_mediteam_2000px.jpg
 - 
-  title: Mediteam, Gampelen, 2012
+  title: Mediteam Gampelen / 2012
   location: half
   image: mediteam_bild_2000px.jpg
 - 
@@ -65,11 +75,13 @@ Imglist:
 - 
   title: ""
   location: half
-  image: logo_1000fragen_2000px.jpg
+  image: logo_kando_2000px.jpg
 - 
-  title: '1000 Fragen – Das (link: https://www.1000-fragen.ch/text: Zeitfestival in Biel), 2016'
+  title: >
+    Kando / Leuchte Felix Mosiman / Biel /
+    2011
   location: half
-  image: 1000fragen_bild_2_2000px.jpg
+  image: kando_bild_2000px.jpg
 - 
   title: ""
   link: ""
@@ -78,8 +90,44 @@ Imglist:
 - 
   title: ""
   location: half
-  image: kando-logo_2000px.jpg
+  image: logo_girard_2000px.jpg
 - 
-  title: Kando Leuchte Felix Mosiman, Biel, 2011
+  title: '(link: http://www.http://lenagirard.ch//text: Lena Girard), Alexander-Technik / Biel / 2018'
   location: half
-  image: kando_bild_2000px.jpg
+  image: girard_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_bildungsmonitoring_2000px.jpg
+- 
+  title: 'Bildungsmonitoring Schweiz / 2009 / Freelance Auftrag für (link: http://www.http://kong.ch//text: kong)'
+  location: half
+  image: bildungsmonitoring_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_bfu_2000px.jpg
+- 
+  title: 'Beratungsstelle für Unfallverhütung / 2006 / Freelance Auftrag für (link: http://www.brotbeck.ch//text: BCD)'
+  location: half
+  image: bfu_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_09_2000px.jpg
+- 
+  title: nuIIneun architektur / Nidau / 2011
+  location: half
+  image: 09_bild_2000px.jpg
