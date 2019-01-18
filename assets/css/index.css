@@ -46,10 +46,18 @@ a{
     color: black;
 }
 .container-light a{
-    color: rgba(0,0,0,0.6);
+    color: rgba(0,0,0,1);
+    text-decoration: underline;
 }
 .container-light a:hover{
     color: rgba(0,0,0,1);
+}
+.container-dark a{
+    color: rgba(255,255,255,1);
+    text-decoration: underline;
+}
+.container-dark a:hover{
+    color: rgba(255,255,255,1);
 }
 a.light{
     color: white;
@@ -262,7 +270,7 @@ footer{
 
 .showcase-title{
     font-size: 28px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .showcase-thumb{
