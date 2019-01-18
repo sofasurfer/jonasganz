@@ -405,6 +405,11 @@ figure.img-half.right {
     display: none;
 }
 
+.container-dark .d-md-none figure{
+    margin-left: -25px;
+    margin-right: -25px;
+    margin-bottom: 60px;
+}
 
 @media only screen and (max-width: 768px) {
     html, body{
@@ -457,13 +462,10 @@ figure.img-half.right {
     }
 
     .contact-info{
-        margin-bottom: 30px;
+        margin-top: 20px;
+        /*margin-bottom: 30px;*/
     }
-    .container-dark figure{
-        margin-left: -25px;
-        margin-right: -25px;
-        margin-bottom: 60px;
-    }
+
     .p-fixed{
         position: relative;
         width: 100%;

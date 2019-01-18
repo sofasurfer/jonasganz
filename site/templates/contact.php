@@ -4,8 +4,8 @@
 
     <div class="row">
 
-    <div class="col-md-12 hide-desktop">
-      <div class="contact-info">
+    <div class="col-md-12 d-md-none d-md-block d-lg-none">
+      <div class="contact-info top">
         <?= $page->intro()->kirbytext() ?>
       </div>
       <?php
@@ -29,7 +29,7 @@
       <small><?= $page->impressum()->kirbytext() ?></small>
     </div>
 
-    <div class="col-md-6 hide-mobile">
+    <div class="col-md-6 d-none d-lg-block ">
       <div class="contact-info">
         <?= $page->intro()->kirbytext() ?>
       </div>
