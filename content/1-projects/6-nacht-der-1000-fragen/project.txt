@@ -2,7 +2,7 @@ Title: Nacht der 1000 Fragen
 
 ----
 
-Year: Erscheinungsbild, 2016 – 2018
+Year: Erscheinungsbild, 2016–2018
 
 ----
 
@@ -19,3 +19,7 @@ Thumbnail: 1000fragen_2000px.jpg
 ----
 
 Imglist: 
+
+----
+
+Feautured: active

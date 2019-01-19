@@ -61,3 +61,7 @@ Imglist:
   title: ""
   location: full
   image: mlzd_detail_2000px.jpg
+
+----
+
+Feautured: active

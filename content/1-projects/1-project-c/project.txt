@@ -51,7 +51,7 @@ Imglist:
   location: half
   image: logo_1000fragen_2000px.jpg
 - 
-  title: '(link: https://www.1000-fragen.ch/text: Nacht der 1000 Fragen) – Das Zeitfestival in Biel / 2016'
+  title: '(link: https://www.1000-fragen.ch/text: Nacht der 1000 Fragen target: _blank) – Das Zeitfestival in Biel / 2016'
   location: half
   image: 1000fragen_bild_3_2000px.jpg
 - 
@@ -92,7 +92,7 @@ Imglist:
   location: half
   image: logo_girard_2000px.jpg
 - 
-  title: '(link: http://www.http://lenagirard.ch//text: Lena Girard), Alexander-Technik / Biel / 2018'
+  title: '(link: http://www.http://lenagirard.ch//text: Lena Girard target: _blank), Alexander-Technik / Biel / 2018'
   location: half
   image: girard_bild_2000px.jpg
 - 
@@ -104,7 +104,7 @@ Imglist:
   location: half
   image: logo_bildungsmonitoring_2000px.jpg
 - 
-  title: 'Bildungsmonitoring Schweiz / 2009 / Freelance Auftrag für (link: http://www.http://kong.ch//text: kong)'
+  title: 'Bildungsmonitoring Schweiz / 2009 / Freelance Auftrag für (link: http://www.kong.ch//text: kong target: _blank)'
   location: half
   image: bildungsmonitoring_bild_2000px.jpg
 - 
@@ -116,7 +116,7 @@ Imglist:
   location: half
   image: logo_bfu_2000px.jpg
 - 
-  title: 'Beratungsstelle für Unfallverhütung / 2006 / Freelance Auftrag für (link: http://www.brotbeck.ch//text: BCD)'
+  title: 'Beratungsstelle für Unfallverhütung / 2006 / Freelance Auftrag für (link: http://www.brotbeck.ch//text: BCD target: _blank)'
   location: half
   image: bfu_bild_2000px.jpg
 - 
@@ -152,6 +152,10 @@ Imglist:
   location: half
   image: logo_bds_2000px.jpg
 - 
-  title: ""
+  title: 'Berner Design Stiftung / 2012 / (link: http://www.bernerdesignstiftung.ch//text: BDS target: _blank)'
   location: half
   image: bds_bild_2000px.jpg
+
+----
+
+Feautured: active

@@ -402,7 +402,7 @@ figure.img-half.right {
     margin: 0;
     /*height: 30px;*/
 
-    padding-top: 10px;
+    padding-top: 15px;
     /*line-height: 50px;*/
 
 }
@@ -537,6 +537,9 @@ figure.img-half.right {
         padding-left: 0px;
         padding-right: 0px;
     }
+    .home .container-fluid.main{
+        padding-top: 90px;
+    }
     .p-caption{
         padding-left: 10px;
         padding-right: 10px;
@@ -574,7 +577,10 @@ figure.img-half.right {
     .container-fluid.main{
         padding-top: 95px;
     }
-
+    
+    .home .container-fluid.main{
+        padding-top: 75px;
+    }
     .bg-dark2{
         height: 50px;
     }
@@ -587,7 +593,7 @@ figure.img-half.right {
     }    
     .branding{
         font-size: 1.5rem;
-        line-height: 55px;
+        line-height: 53px;
     }
     .p-title{
         font-size: 1.5rem;

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>">
+<html lang="<?= site()->language() ? site()->language()->code() : 'de' ?>">
 <head>
 
   <meta charset="utf-8">
