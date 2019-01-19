@@ -26,7 +26,7 @@ Imglist:
   image: logo_atuprix_2000px.jpg
   link: http://www.atu-prix.ch/
 - 
-  title: 'Auszeichnung Berner Baukultur (link: http://www.atu-prix.ch/text: Atuprix) / 2015'
+  title: 'Auszeichnung Berner Baukultur (link: http://www.atu-prix.ch/text: Atuprix target: _blank) / 2015'
   location: half
   image: atuprix_bild_2000px.jpg
 - 

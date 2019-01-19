@@ -8,10 +8,10 @@
   <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
   <meta name="description" content="<?= $site->description()->html() ?>">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  <?= css('assets/css/index.css?v=6.8') ?>
+  <?= css('assets/css/index.css?v=7.0') ?>
 
 </head>
-<body>
+<body class="<?= $page->intendedTemplate(); ?>">
 
 <input type="checkbox" id="navmenu">
 <?php snippet('menu') ?>
@@ -20,10 +20,10 @@
   <div class="bg-dark2" id="navbarHeader">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-xs-8 col-sm-6 col-md-6">
+        <div class="col-xs-10 col-sm-8 col-md-8">
           <a href="<?= url() ?>" class="branding" rel="home"><?= $site->title()->html() ?></a>
         </div>
-        <div class="col-xs-4 col-sm-6 col-md-6">
+        <div class="col-xs-2 col-sm-4 col-md-4">
           <div class="float-right">
             <label for="navmenu" class="text-white nav-opener">
 

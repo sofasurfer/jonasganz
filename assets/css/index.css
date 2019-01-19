@@ -28,13 +28,6 @@ body{
 
 }
 
-body.noscroll{
-    /*position:fixed;*/
-    overflow:hidden;
-    z-index: 0;
-    height: 1px;
-}
-
 h1,h2,h3,h3,p,
 a{
     font-weight: 400;
@@ -53,6 +46,7 @@ a{
     color: black;  
 }
 
+
 .container-light a{
     color: rgba(0,0,0,1);
     border-bottom: solid 0.5px;
@@ -70,6 +64,12 @@ a{
 .container-dark a:hover{
     color: #BFBFBF;
 }
+
+.text-right a,
+.contact-info a{
+    border-bottom: solid 0px;
+}
+
 a.light{
     color: white;
 }
@@ -94,7 +94,10 @@ small p{
 .intro.text,
 .showcase-caption p{
     font-size: 16px;
-    line-height: 19px;
+    line-height: 21px;
+}
+.showcase-caption p{
+    margin-bottom: 0px;
 }
 
 #navbarHeader{
@@ -133,11 +136,14 @@ small p{
 
     /*transition: all 0.9s ease;*/
 }
+body.project .navigation{
+    width: calc(25% + 40px);    
+}
 
 .menu{
     display: none;
     padding-top: 90px;
-    padding-left: 60px;
+    padding-left: 56px;
     padding-right: 60px;    
 }
 
@@ -284,7 +290,7 @@ footer{
 
 .showcase-title{
     font-size: 28px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 .showcase-thumb{
@@ -411,11 +417,34 @@ figure.img-half.right {
     margin-bottom: 60px;
 }
 
-@media only screen and (max-width: 768px) {
+
+@media only screen and (min-width: 990px ) and ( max-width: 1300px) {
+    .col-wrap{
+        display: block;
+    }
+    .col-left,
+    .col-right{
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+        display: block;
+        align-self: flex-start;
+    }
+    .col-left p{
+        margin-bottom: 0px;
+    }    
+}
+
+@media only screen and (max-width: 1200px) {
     html, body{
         overflow-x: hidden;
     }
-
+    body.noscroll{
+        /*position:fixed;*/
+        overflow:hidden;
+        z-index: 0;
+        height: 1px;
+    }
     .hide-mobile{
         display: none;
     }
@@ -424,10 +453,11 @@ figure.img-half.right {
     }
 
     .menu{
-        padding-top: 30px;
+        padding-top: 60px;
         padding-left: 30px;
     }
-
+    h1,h2,
+    .btn-footer,
     .branding{
         font-size: 1.6rem;
     }
@@ -442,7 +472,10 @@ figure.img-half.right {
     .navigation{
         width: 100%;
     }
-    
+    body.project .navigation{
+        width: 100%;    
+    }
+
     header .container-fluid{
         padding-left: 0px;
         padding-right: 0px;
@@ -462,7 +495,7 @@ figure.img-half.right {
     }
 
     .contact-info{
-        margin-top: 20px;
+        margin-top: 0px;
         /*margin-bottom: 30px;*/
     }
 
@@ -479,7 +512,7 @@ figure.img-half.right {
         max-width: 100%;        
     }
 
-    .col-md-12, .col-sm-6, .col-ld-6{
+    .col-md-12, .col-sm-6,.col-md-8, .col-sm-8, .col-ld-6{
         padding-left: 40px;
         padding-right: 40px;
     }
@@ -500,7 +533,7 @@ figure.img-half.right {
         margin-right: 30px;
     }
     .container-fluid.main{
-        padding-top: 90px;
+        padding-top: 120px;
         padding-left: 0px;
         padding-right: 0px;
     }
@@ -534,16 +567,19 @@ figure.img-half.right {
 
 @media only screen and (max-width: 576px) {
 
+    p{
+        margin-bottom: 15px;
+    }
 
     .container-fluid.main{
-        padding-top: 75px;
+        padding-top: 95px;
     }
 
     .bg-dark2{
         height: 50px;
     }
     .nav-opener{
-        top: 0px;
+        top: -2px;
     }
     .navigation{
         top: 50px;
@@ -553,9 +589,19 @@ figure.img-half.right {
         font-size: 1.5rem;
         line-height: 55px;
     }
-
+    .p-title{
+        font-size: 1.5rem;
+        margin-bottom: 15px;
+    }
+    .menu{
+        padding-top: 45px;
+    }
     figure .caption{
         font-size: 12px;        
+    }
+    figure.img-half,
+    figure.img-full{
+        margin-bottom: 25px;
     }
     figure.img-half.left,
     figure.img-half.right{
@@ -595,6 +641,14 @@ figure.img-half.right {
         padding-right: 12px;
     }
 
+    footer{
+        height: 51px;
+        font-size: 1.5rem;        
+    }
+    .btn-footer{
+        font-size: 1.5rem;        
+        line-height: 50px;
+    }
 }
 
 
