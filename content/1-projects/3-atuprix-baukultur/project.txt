@@ -26,6 +26,14 @@ Thumbnail: atu_2000px.jpg
 Imglist: 
 
 - 
+  title: Logo
+  location: full
+  image: logo_projekt_atu.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
   title: Jurybericht 2018
   location: full
   image: atu_2018_cover_2000px.jpg
@@ -39,32 +47,20 @@ Imglist:
   image: atu_2018_back_2000px.jpg
 - 
   title: Webseite
-  location: half
-  image: atuprix_web_1_2000px.jpg
+  location: full
+  image: atu_webdoku_1.jpg
 - 
   title: ""
-  location: half
-  image: atuprix_web_2_2000px.jpg
+  location: full
+  image: atu_webdoku_2.jpg
 - 
   title: ""
-  location: half
-  image: atuprix_web_4_2000px.jpg
+  location: full
+  image: atu_webdoku_3.jpg
 - 
   title: ""
-  location: half
-  image: atuprix_web_3_2000px.jpg
-- 
-  title: ""
-  location: half
-  image: atuprix_web_ipad_1_2000px.jpg
-- 
-  title: ""
-  location: half
-  image: atuprix_web_ipad_2_2000px.jpg
-- 
-  title: ""
-  location: half
-  image: atuprix_web_ipone_2000px.jpg
+  location: full
+  image: atu_webdoku_4.jpg
 
 ----
 
