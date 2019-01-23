@@ -143,6 +143,7 @@ body.project .navigation{
 .menu{
     display: none;
     padding-top: 90px;
+    padding-bottom: 90px;
     padding-left: 56px;
     padding-right: 60px;    
 }
@@ -281,7 +282,7 @@ footer{
 
 
 .text-right{
-    padding-right: 5px;
+    padding-right: 0px;
 }
 .text-right p{
     padding: 0px;

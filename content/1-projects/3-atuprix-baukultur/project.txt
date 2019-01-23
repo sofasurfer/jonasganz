@@ -2,20 +2,18 @@ Title: Auszeichnung Berner Baukultur
 
 ----
 
-Year: Erscheinungsbild, 2015–2018
+Year: Erscheinungsbild, 2015
 
 ----
 
 Text: 
 
-Neuer visueller Auftritt für die Stiftung (Logo, Briefschaft, Einladungskarten, Plakate, Juryberichte etc.)
-Die Stiftung Auszeichnung Berner Baukultur zeichnet private, öffentliche und institutionelle Auftraggebende sowie Autorinnen und Autoren für ihre beispielhaften, zeitgenössischen und interdisziplinären Werke und Planungen im Kanton Bern aus. 
-
-(link: http://www.atu-prix.ch text: www.atu-prix.ch target: _blank)
+Neuer visueller Auftritt für die Stiftung (Logo, Briefschaft, Einladungskarten, Plakate, Juryberichte und Zeitungsbeilagen)
+Die Stiftung Auszeichnung Berner Baukultur zeichnet private, öffentliche und institutionelle Auftraggebende sowie Autorinnen und Autoren für ihre beispielhaften, zeitgenössischen und interdisziplinären Werke und Planungen im Kanton Bern aus.
 
 ----
 
-Purl: 
+Purl: (link: http://www.atu-prix.ch text: www.atu-prix.ch target: _blank)
 
 ----
 
@@ -34,21 +32,65 @@ Imglist:
   location: line
   image: ""
 - 
+  title: Jurybericht 2015
+  location: text
+  image: ""
+- 
+  title: ""
+  location: full
+  image: atu_2015_cover_neu.jpg
+- 
+  title: ""
+  location: full
+  image: atu_2015_inhalt_neu.jpg
+- 
+  title: ""
+  location: half
+  image: atu_2015_inhalt_2_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: atu_2015_inhalt_3_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
   title: Jurybericht 2018
-  location: full
-  image: atu_2018_cover_2000px.jpg
+  location: text
+  image: ""
 - 
   title: ""
   location: full
-  image: atu_2018_inhalt_200px.jpg
+  image: atu_2018_cover_neu.jpg
 - 
   title: ""
   location: full
-  image: atu_2018_back_2000px.jpg
+  image: atu_2018_inhalt_neu.jpg
+- 
+  title: ""
+  location: full
+  image: atu_2018_back_neu.jpg
+- 
+  title: ""
+  location: line
+  image: ""
 - 
   title: Webseite
+  location: text
+  image: ""
+- 
+  title: ""
   location: full
   image: atu_webdoku_1.jpg
+- 
+  title: ""
+  location: half
+  image: atu_webdoku_3.jpg
+- 
+  title: ""
+  location: half
+  image: atu_webdoku_4.jpg
 - 
   title: ""
   location: full
@@ -56,11 +98,11 @@ Imglist:
 - 
   title: ""
   location: full
-  image: atu_webdoku_3.jpg
+  image: atu_webdoku_ipad.jpg
 - 
   title: ""
   location: full
-  image: atu_webdoku_4.jpg
+  image: atu_webdoku_iphone_3.jpg
 
 ----
 

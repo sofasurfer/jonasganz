@@ -5,10 +5,10 @@ Title: Contact
 Text: 
 
 # Info
-Als selbstständiger Grafikdesigner arbeitet Jonas Ganz seit 2004 in Biel/Bienne. Der Arbeitsbereich umfasst unter Anderem die Konzeption und Gestaltung von visuellen Identitäten mit Spezialisierung auf Logos und Bildmarken, Erscheinungsbilder, Bücher, Broschüren, Plakate, Schallplattencover sowie Webseiten. Reduktion und klare Formen prägen die Ausdrucksweise der Arbeit.
+Als selbstständiger Grafikdesigner arbeitet Jonas Ganz seit 2004 in Biel. Er konzipiert und gestaltet visuelle Identitäten mit Spezialisierung auf Logos und Bildmarken, Erscheinungsbilder, Bücher, Broschüren, Plakate, Schallplattencover sowie Webseiten. Seine grafischen Lösungen sind geprägt von Präzision, klaren Formen und Dauerhaftigkeit. Bei Bedarf greift er auf sein breites professionelles Netzwerk mit Partnern aus Bereichen wie Fotografie, Programmierung und Druckerei zurück. Den Kontakt zu den Kunden pflegt Jonas Ganz gerne in seinem Bieler Ladenlokal bei einem guten Kaffee.
 
 Seit 2004 selbstständig tätig als Grafiker in Biel
-2004–2018 Freelancer für diverse Werbeagenturen und Grafikateliers 
+2004–2019 Freelancer für diverse Werbeagenturen und Grafikateliers 
 2000–2004 Fachklasse Grafik, Schule für Gestaltung Biel
 1999–2000 Vorkurs, Schule für Gestaltung Biel
 1981 geboren in Biel
@@ -19,8 +19,8 @@ Intro:
 
 Jonas Ganz → Grafiker 
 Rüschlistrasse 17 
-2502 Biel-Bienne Telefon 
-032 322 01 15 
+2502 Biel-Bienne 
+Telefon 032 322 01 15 
 (email: post@jonasganz.ch text: post@jonasganz.ch)
 
 ----
@@ -62,7 +62,7 @@ Contactoptions:
 
 Impressum: 
 
-© 2001–2018 Jonas Ganz & Partners
+© 2001–2019 Jonas Ganz & Partners
 Impressum: Fotos: (link: https://www.antalthoma.ch/ text: Antal Thoma Fotografie target: _blank) und Jonas Ganz; Code: (link: https://www.sofasurfer.org/ text: Sofasurfer target: _blank)
 
 ----
@@ -87,21 +87,21 @@ Exa.soft GmbH, Bern
 Feathered Apple Records, Basel
 Filmpodium, Biel
 Formel zwei, Bern
-Gesellschaft Schweizer Tierärztinnen und Tierärzte, Thörishaus
+Gesellschaft Schweizer Tierärzte, Thörishaus
 Gilgen Door Systems, Schwarzenburg
 Giovanni Cancellara, Biel
 Girard Lena, Alexander- Technik, Biel
 Grabenöle Lüterswil
 Grip climbing, Biel
+Hans, Hausarzt Notfall Seeland, Aarberg
+Heim Decor, Biel
+Hirt AG, Evilard
+IMG, Interessengemeinschaft Medizinische Grundversorgung, Bern
 
 ----
 
 Client2: 
 
-Hans, Hausarzt Notfall Seeland, Aarberg
-Heim Decor, Biel
-Hirt AG, Evilard
-IMG, Interessengemeinschaft Medizinische Grundversorgung, Bern
 Jelmoli, Zürich
 Kando, Felix Mosimann, Biel
 Kirchgemeinde Erlach-Tschugg
@@ -122,3 +122,9 @@ Schiess Christophe, Komponist, Biel
 Seelandnet, Schüpfen
 Spital Aarberg
 Stepping Stone GmbH, Bern
+Tourismus Erlach
+TWIN Productions AG, Biel
+VBG, Bern
+Visuelle Gestaltung Hertig+Seliner, Biel
+Walter Meier AG, Schwerzenbach
+Zbären+Partner, Rechts- & Wirtschaftsberatung, Biel

@@ -30,6 +30,9 @@
       foreach($page->imglist()->toStructure() as $image): ?>
         <?php if( $image->location() == 'line' ): ?>
           <div class="p-line"></div>
+
+        <?php elseif( $image->location() == 'text' ): ?>
+            <div class="p-caption"><?= $image->title()->kirbytext(); ?></div>
         <?php else: ?>
 
           <figure class="img-<?= $image->location(); ?> <?= ($right) ? 'right' : 'left'; ?> ">

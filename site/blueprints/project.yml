@@ -51,6 +51,7 @@ fields:
           full: Full
           half: Half
           line: Line
+          text: Text
       image:
         label: Image
         type: image

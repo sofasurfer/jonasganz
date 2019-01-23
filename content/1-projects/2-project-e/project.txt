@@ -17,7 +17,7 @@ Purl: (link: http://grabenoele.ch/ text: www.grabenoele.ch)
 
 ----
 
-Thumbnail: grabenoele_2000px.jpg
+Thumbnail: grabenoele_cover_neu.jpg
 
 ----
 
@@ -27,7 +27,7 @@ Imglist:
   title: ""
   link: ""
   location: full
-  image: grabenoele_2000px.jpg
+  image: grabenoele_cover_neu.jpg
 - 
   title: ""
   link: ""
@@ -51,7 +51,7 @@ Imglist:
 - 
   title: ""
   location: full
-  image: grabenoele_detail_2000px.jpg
+  image: grabenoele_detail_neu.jpg
 
 ----
 

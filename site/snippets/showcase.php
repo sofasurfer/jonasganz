@@ -26,7 +26,7 @@ if(isset($limit)) $projects = $projects->limit($limit);
     <?php if(  $project->feautured() == 'active' ): ?>
       <div class="col-sm-6 col-md-4 showcase-thumb">
           <a href="<?= $project->url() ?>" title="<?= $project->title()->html() ?>" class="showcase-link">
-            <?php if($image = $project->thumbnail()->toFile() ): $thumb = $image->crop(600, 600); ?>
+            <?php if($image = $project->thumbnail()->toFile() ): $thumb = $image->crop(900, 900); ?>
               <img src="<?= $image->url() ?>" alt="Thumbnail for <?= $project->title()->html() ?>" class="img-thumbnail" />
             <?php endif ?>
             <div class="showcase-caption">

@@ -2,11 +2,11 @@ Title: Logos
 
 ----
 
-Year: Logos und Bildmarken, 2004–2018
+Year: Logo Designs, 2004–2019
 
 ----
 
-Text: Diverse Logo und Bildmarken
+Text: Auswahl diverser Logo Designs, welche im Zeitraum der letzten 15 Jahre entworfen wurden. Die Anforderung an eine Wort- oder Bildmarke ist die optimale Reduzierung auf das Wesentliche. Ein Blick reicht im Idealfall, und die entsprechenden Assoziationen zum Unternehmen/Produkt werden wach. 
 
 ----
 
@@ -81,7 +81,7 @@ Imglist:
     Kando / Leuchte Felix Mosiman / Biel /
     2011
   location: half
-  image: kando_bild_2000px.jpg
+  image: kando_bild_2_2000px.jpg
 - 
   title: ""
   link: ""
@@ -90,21 +90,9 @@ Imglist:
 - 
   title: ""
   location: half
-  image: logo_girard_2000px.jpg
-- 
-  title: '(link: http://www.http://lenagirard.ch//text: Lena Girard target: _blank), Alexander-Technik / Biel / 2018'
-  location: half
-  image: girard_bild_2000px.jpg
-- 
-  title: ""
-  location: line
-  image: ""
-- 
-  title: ""
-  location: half
   image: logo_bildungsmonitoring_2000px.jpg
 - 
-  title: 'Bildungsmonitoring Schweiz / 2009 / Freelance Auftrag für (link: http://www.kong.ch//text: kong target: _blank)'
+  title: 'Bildungsmonitoring Schweiz / 2009 / Freelance Job für (link: http://www.kong.ch//text: kong target: _blank)'
   location: half
   image: bildungsmonitoring_bild_2000px.jpg
 - 
@@ -114,11 +102,35 @@ Imglist:
 - 
   title: ""
   location: half
+  image: logo_girard_2000px.jpg
+- 
+  title: '(link: http://www.lenagirard.ch//text: Lena Girard target: _blank), Alexander-Technik / Biel / 2018'
+  location: half
+  image: girard_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_nalyk_2000px.jpg
+- 
+  title: Nalyk / Biel / 2016
+  location: half
+  image: nalyk_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
   image: logo_bfu_2000px.jpg
 - 
-  title: 'Beratungsstelle für Unfallverhütung / 2006 / Freelance Auftrag für (link: http://www.brotbeck.ch//text: BCD target: _blank)'
+  title: 'Beratungsstelle für Unfallverhütung / 2006 / Freelance Job für (link: http://www.brotbeck.ch//text: BCD target: _blank)'
   location: half
-  image: bfu_bild_2000px.jpg
+  image: bfu_logos_bild_2_2000px.jpg
 - 
   title: ""
   location: line
@@ -155,6 +167,116 @@ Imglist:
   title: 'Berner Design Stiftung / 2012 / (link: http://www.bernerdesignstiftung.ch//text: BDS target: _blank)'
   location: half
   image: bds_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_cz_2000px.jpg
+- 
+  title: Dr. Christoph Zbären / Biel / 2012
+  location: half
+  image: cz_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_cn_2000px.jpg
+- 
+  title: Cranio Norman / St. Gallen / 2011
+  location: half
+  image: cn_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_exa_2000px.jpg
+- 
+  title: Exa.soft GmbH / Bern / 2008
+  location: half
+  image: exa_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_cineart_2000px.jpg
+- 
+  title: Cinéart / Biel / 2004
+  location: half
+  image: cineart_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_pro_2000px.jpg
+- 
+  title: Pro Espace / Nidau / 2011
+  location: half
+  image: pro_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_hans_2000px.jpg
+- 
+  title: >
+    Hausarzt Notfall Seeland / Aarberg /
+    2008
+  location: half
+  image: hans_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_system_2000px.jpg
+- 
+  title: 'System Connect AG / Kehrsatz / 2005 / Freelance Job für (link: http://www.brotbeck.ch//text: BCD target: _blank)'
+  location: half
+  image: system_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_mount_2000px.jpg
+- 
+  title: Mount Improbable Records / Biel / 2017
+  location: half
+  image: mount_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: logo_grip2_2000px.jpg
+- 
+  title: GRIP Climbing / Biel / 2016
+  location: half
+  image: grip2_bild_2000px.jpg
 
 ----
 
