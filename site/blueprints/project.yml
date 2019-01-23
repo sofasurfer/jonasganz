@@ -6,6 +6,8 @@ files:
 pages: false
 
 fields:
+  seo: seo
+  
   title:
     label: Title
     type:  text

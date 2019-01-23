@@ -6,7 +6,9 @@ options:
   delete: false
   status: false
 
-fields: 
+fields:
+  seo: seo
+  
   title:
     label: Title
     type: title

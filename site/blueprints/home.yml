@@ -3,6 +3,8 @@ title: Home
 pages: false
 
 fields:
+  seo: seo
+
   title:
     label: Title
     type:  text

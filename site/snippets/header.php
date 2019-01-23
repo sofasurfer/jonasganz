@@ -5,8 +5,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-  <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
-  <meta name="description" content="<?= $site->description()->html() ?>">
+  <?php if($page->isHomePage()): ?>
+    <?php echo seo('title'); ?>
+  <?php else: ?>
+    <title><?= seo('title', array(), true); ?> | <?= $site->title()->html() ?></title>
+  <?php endif; ?>
+  <?php echo seo('description'); ?>
+
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <?= css('assets/css/index.css?v=7.1') ?>
 
@@ -24,9 +29,9 @@
   <link rel="icon" type="image/png" sizes="96x96" href="/assets/icon/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/icon/favicon-16x16.png">
   <link rel="manifest" href="/assets/icon/manifest.json">
-  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileColor" content="#000000">
   <meta name="msapplication-TileImage" content="/assets/icon/ms-icon-144x144.png">
-  <meta name="theme-color" content="#ffffff">
+  <meta name="theme-color" content="#000000">
 
 </head>
 <body class="<?= $page->intendedTemplate(); ?>">

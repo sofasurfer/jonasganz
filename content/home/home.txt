@@ -13,3 +13,11 @@ Rüschlistrasse 17
 2502 Biel-Bienne 
 Telefon 032 322 01 15 
 (link: mailto:post@jonasganz.ch text: post@jonasganz.ch)
+
+----
+
+Seo: 
+
+-
+  seo-title: "Jonas Ganz / Grafiker"
+  seo-description: "Hier dein Text über Dich"
