@@ -21,6 +21,9 @@
 
     <div class="col-md-12 col-lg-6">
       <?= $page->text()->kirbytext() ?>
+      <?php if( $page->text2()->isNotEmpty() ): ?>
+        <div class="col-info"><?= $page->text2()->kirbytext() ?></div>
+      <?php endif; ?>
       <h2>Kunden</h2>
       <div class="col-wrap">
         <div class="col-left"><?= $page->client1()->kirbytext() ?></div>

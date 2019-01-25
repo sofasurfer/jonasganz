@@ -21,6 +21,10 @@ fields:
     label: Text
     type: textarea
 
+  text2:
+    label: Text 2
+    type: textarea
+
   client1:
     label: Client 1
     type: textarea

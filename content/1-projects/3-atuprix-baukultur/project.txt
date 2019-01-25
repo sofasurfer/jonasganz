@@ -2,7 +2,7 @@ Title: Auszeichnung Berner Baukultur
 
 ----
 
-Year: Erscheinungsbild, 2015
+Year: Erscheinungsbild, 2015 und 2018
 
 ----
 
@@ -17,7 +17,7 @@ Purl: (link: http://www.atu-prix.ch text: www.atu-prix.ch target: _blank)
 
 ----
 
-Thumbnail: atu_2000px.jpg
+Thumbnail: atu_2015_cover_neu_2.jpg
 
 ----
 

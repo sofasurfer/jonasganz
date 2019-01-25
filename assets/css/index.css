@@ -407,6 +407,10 @@ footer{
     margin-right: 30px;
 }
 
+.col-info{
+    margin-bottom: 30px;
+}
+
 figure.img-half,
 figure.img-full{
     margin: 0px;

@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
+Intro: Als selbstständiger Grafiker arbeitet Jonas Ganz seit 2004 in Biel. Der Arbeitsbereich umfasst die Konzeption und Gestaltung von visuellen Identitäten mit Spezialisierung auf Logos, Broschüren und Briefschaften, Bücher und Schallplattencover sowie Webseiten. Die Ausdrucksweise ist durch Ästhetik, Reduzierung auf das Wesentliche und Dauerhaftigkeit geprägt. Ein eingespieltes Netzwerk aus Bereichen wie Fotografie, Programmierung und Text rundet das Angebot ab. Die Zusammenarbeit beginnt mit einem Espresso im einladenden Bieler Ladenlokal. Vous y êtes bienvenus.
 
 ----
 
@@ -20,4 +20,4 @@ Seo:
 
 -
   seo-title: "Jonas Ganz / Grafiker"
-  seo-description: "Hier dein Text über Dich"
+  seo-description: "Als selbstständiger Grafiker arbeitet Jonas Ganz seit 2004 in Biel. Der Arbeitsbereich umfasst die Konzeption und Gestaltung von visuellen Identitäten mit Spezialisierung auf Logos, Broschüren und Briefschaften, Bücher und Schallplattencover sowie Webseiten. Die Ausdrucksweise ist durch Ästhetik, Reduzierung auf das Wesentliche und Dauerhaftigkeit geprägt. Ein eingespieltes Netzwerk aus Bereichen wie Fotografie, Programmierung und Text rundet das Angebot ab. Die Zusammenarbeit beginnt mit einem Espresso im einladenden Bieler Ladenlokal. Vous y êtes bienvenus."
