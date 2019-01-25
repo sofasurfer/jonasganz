@@ -13,7 +13,7 @@ Gestaltung des Booklet 13_13 für das Architekturbüro :mlzd in Biel.
 
 ----
 
-Purl: (link: http://www.mlzd.ch/ text: www.mlzd.ch) / Im Bindorama (link: http://www.bubu.ch/inspiration/bindorama/artikel/booklet-mlzd/?f=43 text: www.bubu.ch)
+Purl: (link: http://www.mlzd.ch/ text: www.mlzd.ch target: _blank) / Im Bindorama (link: http://www.bubu.ch/inspiration/bindorama/artikel/booklet-mlzd/?f=43 text: www.bubu.ch target: _blank)
 
 ----
 
@@ -60,8 +60,16 @@ Imglist:
 - 
   title: ""
   location: full
+  image: mlzd_detail_schnitt.jpg
+- 
+  title: ""
+  location: full
   image: mlzd_detail_2000px.jpg
 
 ----
 
 Feautured: active
+
+----
+
+Seo: 

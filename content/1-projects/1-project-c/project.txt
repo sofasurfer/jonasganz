@@ -114,18 +114,6 @@ Imglist:
 - 
   title: ""
   location: half
-  image: logo_nalyk_2000px.jpg
-- 
-  title: Nalyk / Biel / 2016
-  location: half
-  image: nalyk_bild_2000px.jpg
-- 
-  title: ""
-  location: line
-  image: ""
-- 
-  title: ""
-  location: half
   image: logo_bfu_2000px.jpg
 - 
   title: 'Beratungsstelle für Unfallverhütung / 2006 / Freelance Job für (link: http://www.brotbeck.ch//text: BCD target: _blank)'
@@ -234,6 +222,18 @@ Imglist:
 - 
   title: ""
   location: half
+  image: logo_nalyk_2000px.jpg
+- 
+  title: Nalyk / Biel / 2016
+  location: half
+  image: nalyk_bild_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
   image: logo_hans_2000px.jpg
 - 
   title: >
@@ -281,3 +281,7 @@ Imglist:
 ----
 
 Feautured: active
+
+----
+
+Seo: 
