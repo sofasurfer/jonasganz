@@ -31,7 +31,7 @@ if(isset($limit)) $projects = $projects->limit($limit);
             <?php endif ?>
             <div class="showcase-caption">
               <h3 class="showcase-title"><?= $project->title()->html() ?></h3>
-              <p>→ <?= $project->year() ?></p>
+              <p><i class="arrow white small"></i> <?= $project->year() ?></p>
             </div>
           </a>
       </div>

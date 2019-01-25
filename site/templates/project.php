@@ -7,7 +7,7 @@
     <div class="col-sm-12 col-md-3 p-fixed">
       <h1 class="p-title"><?= $page->title()->html() ?></h1>
       <p class="intro text">
-        → <?= $page->year() ?>
+        <i class="arrow"></i> <?= $page->year() ?>
       </p>
 
       <?= $page->text()->kirbytext() ?>

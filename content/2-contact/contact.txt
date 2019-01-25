@@ -5,19 +5,18 @@ Title: Contact
 Text: 
 
 # Info
-Als selbstständiger Grafikdesigner arbeitet Jonas Ganz seit 2004 in Biel. Er konzipiert und gestaltet visuelle Identitäten mit Spezialisierung auf Logos und Bildmarken, Erscheinungsbilder, Bücher, Broschüren, Plakate, Schallplattencover sowie Webseiten. Seine grafischen Lösungen sind geprägt von Präzision, klaren Formen und Dauerhaftigkeit. Bei Bedarf greift er auf sein breites professionelles Netzwerk mit Partnern aus Bereichen wie Fotografie, Programmierung und Druckerei zurück. Den Kontakt zu den Kunden pflegt Jonas Ganz gerne in seinem Bieler Ladenlokal bei einem guten Kaffee.
+Als selbstständiger Grafiker arbeitet Jonas Ganz seit 2004 in Biel. Der Arbeitsbereich umfasst die Konzeption und Gestaltung von visuellen Identitäten mit Spezialisierung auf Logos, Broschüren und Briefschaften, Bücher und Schallplattencover sowie Webseiten. Die Ausdrucksweise ist durch Ästhetik, Reduzierung auf das Wesentliche und Dauerhaftigkeit geprägt. Ein eingespieltes Netzwerk aus Bereichen wie Fotografie, Programmierung und Text rundet das Angebot ab. Die Zusammenarbeit beginnt mit einem Espresso im einladenden Bieler Ladenlokal. Vous y êtes bienvenus.
 
 Seit 2004 selbstständig tätig als Grafiker in Biel
-2004–2019 Freelancer für diverse Werbeagenturen und Grafikateliers 
+2004–2019 Freelancer für Werbeagenturen und Grafikateliers 
 2000–2004 Fachklasse Grafik, Schule für Gestaltung Biel
 1999–2000 Vorkurs, Schule für Gestaltung Biel
-1981 geboren in Biel
 
 ----
 
 Intro: 
 
-Jonas Ganz → Grafiker 
+Jonas Ganz <i class="arrow white"></i> Grafiker 
 Rüschlistrasse 17 
 2502 Biel-Bienne 
 Telefon 032 322 01 15 
@@ -128,3 +127,7 @@ VBG, Bern
 Visuelle Gestaltung Hertig+Seliner, Biel
 Walter Meier AG, Schwerzenbach
 Zbären+Partner, Rechts- & Wirtschaftsberatung, Biel
+
+----
+
+Seo: 

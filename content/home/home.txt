@@ -8,7 +8,7 @@ Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
 
 Text: 
 
-Jonas Ganz → Grafiker 
+Jonas Ganz <i class="arrow white"></i> Grafiker 
 Rüschlistrasse 17
 2502 Biel-Bienne 
 Telefon 032 322 01 15 
