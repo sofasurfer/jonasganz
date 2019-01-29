@@ -1,0 +1,58 @@
+Title: Lords
+
+----
+
+Year: Vinyl Cover, 2018T-Shirt / Siebdruck
+
+----
+
+Text: Gatefold Vinyl Cover und Band T-Shirt für die «Lords of the Thresholds of the Skies» aus Biel. «The Lords» plays psychedelic instrumental acid rock with a twist.
+
+----
+
+Purl: 
+
+----
+
+Thumbnail: 
+
+----
+
+Imglist: 
+
+- 
+  title: Schriftzug
+  location: full
+  image: lords_schriftzug.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: full
+  image: lords_cover_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: lords_cover_back_2000px.jpg
+- 
+  title: Gatefold Vinyl Cover
+  location: full
+  image: lords_innen_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: T-Shirt / Siebdruck
+  location: full
+  image: lords_shirt.jpg
+
+----
+
+Seo: 
+
+----
+
+Feautured: 

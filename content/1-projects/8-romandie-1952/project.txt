@@ -1,0 +1,54 @@
+Title: Romandie 1952
+
+----
+
+Year: Erscheinungsbild, 2009–2013
+
+----
+
+Text: Das Motorschiff Romandie I verrichtete zwischen 1952 und 1960 seinen Dienst als Fahrgastschiff zwischen Neuenburg und Solothurn. 2009 wurde die Romandie I vom Bieler Trägerverein Kulturschiff.ch vom Hallwilersee wieder zurück in die Ursprungsgewässer geholt. Das Schiff wurde einem umfassenden Refit unterzogen und ist im Hafen von Biel vorzufinden. Seit 2011 ist die Romandie I als exklusives Mietschiff unterwegs.
+
+----
+
+Purl: 
+
+----
+
+Thumbnail: 
+
+----
+
+Imglist: 
+
+- 
+  title: Logo
+  location: full
+  image: logo_projekt_romandie.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Visitenkarte
+  location: full
+  image: vk_romandie_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: full
+  image: romandie_faltblatt_back.jpg
+- 
+  title: Faltblatt A2-Poster, 2013
+  location: full
+  image: romandie_faltblatt_2.jpg
+
+----
+
+Seo: 
+
+----
+
+Feautured: 

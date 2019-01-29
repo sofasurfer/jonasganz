@@ -1,0 +1,70 @@
+Title: Giovanni Cancellara
+
+----
+
+Year: Erscheinungsbild, 2017
+
+----
+
+Text: 
+
+----
+
+Purl: (link: http://www.gcancellara.ch/ text: www.gcancellara.ch target: _blank)
+
+----
+
+Thumbnail: 
+
+----
+
+Imglist: 
+
+- 
+  title: ""
+  location: full
+  image: business_gio_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: gio_briefschaft_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Webseite
+  location: text
+  image: ""
+- 
+  title: ""
+  location: full
+  image: gio_webdoku_1.jpg
+- 
+  title: ""
+  location: half
+  image: gio_webdoku_5.jpg
+- 
+  title: ""
+  location: half
+  image: gio_webdoku_2.jpg
+- 
+  title: ""
+  location: full
+  image: gio_webdoku_3.jpg
+- 
+  title: ""
+  location: full
+  image: gio_webdoku_ipad.jpg
+- 
+  title: ""
+  location: full
+  image: gio_webdoku_iphone.jpg
+
+----
+
+Seo: 
+
+----
+
+Feautured: 

@@ -1,0 +1,42 @@
+Title: Architekturforum Biel
+
+----
+
+Year: Plakat und Programm, 2012
+
+----
+
+Text: Gestaltung des Programms für den diesjährigen Vortragszyklus. Das Architekturforum Biel ist eine Plattform für die aktuelle Architekturdiskussion. Fachleute und Interessierte erfahren Neues über die diversen nationalen und internationalen Tendenzen.
+
+----
+
+Purl: (link: http://www.architekturforum-biel.ch/ text: www.architekturforum-biel.ch target: _blank)
+
+----
+
+Thumbnail: 
+
+----
+
+Imglist: 
+
+- 
+  title: ""
+  location: full
+  image: af_1_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: af_2_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: af_3_2000px.jpg
+
+----
+
+Seo: 
+
+----
+
+Feautured: 

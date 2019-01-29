@@ -1,0 +1,74 @@
+Title: Lena Girard
+
+----
+
+Year: Erscheinungsbild, 2018
+
+----
+
+Text: 
+
+----
+
+Purl: (link: http://lenagirard.ch/ text: www.lenagirard.ch target: _blank)
+
+----
+
+Thumbnail: 
+
+----
+
+Imglist: 
+
+- 
+  title: Logo
+  location: full
+  image: logo_projekt_girard.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: lenagirard_flyer_1_2000px.jpg
+- 
+  title: Visitenkarte A7
+  location: half
+  image: lenagirard_flyer_2_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Webseite
+  location: text
+  image: ""
+- 
+  title: ""
+  location: full
+  image: girard_webdoku_1.jpg
+- 
+  title: ""
+  location: full
+  image: girard_webdoku_2.jpg
+- 
+  title: ""
+  location: full
+  image: girard_webdoku_3.jpg
+- 
+  title: ""
+  location: full
+  image: girard_webdoku_4.jpg
+- 
+  title: ""
+  location: full
+  image: girard_webdoku_iphone.jpg
+
+----
+
+Feautured: 
+
+----
+
+Seo: 

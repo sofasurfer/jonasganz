@@ -1,0 +1,61 @@
+Title: Kando
+
+----
+
+Year: Erscheinungsbild, 2011
+
+----
+
+Text: 
+
+Namensfindung und Logodesign für die Licht-Unikate «Kando» des Bieler Designer Felix Mosimann.
+Kando-Leuchten sind gefertigt aus antiken Kristall- und Glasobjekten. Die in Handarbeit hergestellten Unikate werden mit energiesparenden Halogen- oder LED-Leuchtmitteln ausgestattet, die einzelnen Bestandteile wie Vasen, Schalen und Gläser sind Originale aus den letzten 100 Jahren. Ein charmantes und nachhaltiges Design – Licht für Räume mit Persönlichkeit.
+
+----
+
+Purl: (link: http://kando.ch/ text: www.kando.ch target: _blank)
+
+----
+
+Thumbnail: 
+
+----
+
+Imglist: 
+
+- 
+  title: Logo
+  location: full
+  image: logo_projekt_kando.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: full
+  image: kando_postkarte_01.jpg
+- 
+  title: ""
+  location: full
+  image: kando_postkarte_03.jpg
+- 
+  title: ""
+  location: full
+  image: kando_postkarte_04.jpg
+- 
+  title: ""
+  location: half
+  image: felix.jpg
+- 
+  title: 'Kando #043, #012, #016, #080 (Fotos: atelier komma)'
+  location: half
+  image: kando_detail.jpg
+
+----
+
+Seo: 
+
+----
+
+Feautured: 

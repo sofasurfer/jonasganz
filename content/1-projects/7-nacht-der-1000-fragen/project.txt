@@ -1,0 +1,118 @@
+Title: Nacht der 1000 Fragen
+
+----
+
+Year: Erscheinungsbild, 2016 und 2018
+
+----
+
+Text: 
+
+Erscheinungsbild für die «Nacht der 1000 Fragen – Das Zeitfestival in Biel». 
+Die «Nacht der 1000 Fragen» ist ein Festival in der Bieler Altstadt, welches den Besuchern während 12 Stunden eine breite Palette an interdisziplinären Angeboten wie Ausstellungen, Vorträgen, Theateraufführungen, Stadtrundgängen, Podiumsdiskussionen, Konzerten, Workshops und Lesungen bietet. 2018 lag der Fokus auf dem Thema Wiederholung.
+Logo, Programmheft, Flyer, Plakat und Webauftritt
+
+----
+
+Purl: (link: http://1000-fragen.ch/ text: www.1000-fragen.ch target: _blank)
+
+----
+
+Thumbnail: 1000fragen_karten_braun_2000px.jpg
+
+----
+
+Imglist: 
+
+- 
+  title: Bildmarke
+  location: full
+  image: logo_projekt_1000fragen.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Flyer A5, 2018
+  location: text
+  image: ""
+- 
+  title: ""
+  location: full
+  image: 1000fragen_karten_braun_2000px.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Plakat F4, Siebdruck Uldry
+  location: text
+  image: ""
+- 
+  title: ""
+  location: half
+  image: uldry.jpg
+- 
+  title: ""
+  location: half
+  image: 1000_fragen_f4.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Webseite
+  location: text
+  image: ""
+- 
+  title: ""
+  location: full
+  image: 1000fragen_webdoku_1.jpg
+- 
+  title: ""
+  location: half
+  image: 1000fragen_webdoku_2.jpg
+- 
+  title: ""
+  location: half
+  image: 1000fragen_webdoku_3.jpg
+- 
+  title: ""
+  location: full
+  image: 1000fragen_webdoku_5.jpg
+- 
+  title: ""
+  location: full
+  image: 1000fragen_webdoku_iphone_210119.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Programmheft A6, 2016
+  location: text
+  image: ""
+- 
+  title: ""
+  location: full
+  image: 1000fragen_2000px.jpg
+- 
+  title: ""
+  location: full
+  image: booklet_2016_2.jpg
+- 
+  title: ""
+  location: full
+  image: booklet_2016_3.jpg
+- 
+  title: ""
+  location: full
+  image: 1000fragen_3_2000px.jpg
+
+----
+
+Feautured: active
+
+----
+
+Seo: 

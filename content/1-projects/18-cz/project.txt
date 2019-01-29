@@ -1,0 +1,50 @@
+Title: Dr. Christoph Zbären
+
+----
+
+Year: Erscheinungsbild, 2012
+
+----
+
+Text: 
+
+----
+
+Purl: (link: http://dr-zbaeren.ch/ text: www.dr-zbaeren.ch target: _blank)
+
+----
+
+Thumbnail: 
+
+----
+
+Imglist: 
+
+- 
+  title: Logo
+  location: full
+  image: logo_projekt_cz.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: cz_vk_front.jpg
+- 
+  title: ""
+  location: half
+  image: cz_vk_back.jpg
+- 
+  title: ""
+  location: full
+  image: cz_briefschaft_2.jpg
+
+----
+
+Seo: 
+
+----
+
+Feautured: 

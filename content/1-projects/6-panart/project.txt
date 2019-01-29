@@ -1,0 +1,70 @@
+Title: PANArt
+
+----
+
+Year: Buch- und Webgestaltung, 2013 und 2015
+
+----
+
+Text: 
+
+«hang, Blech Klang Skulptur»
+
+Die Erfinder und Erbauer, Felix Rohner und Sabina Schärer von PANArt Hangbau AG Bern, geben Einblicke in die Entwicklungsgeschichte der Blechklanginstrumente «hang» und «gubal». Mit Arbeitskizzen von Felix Rohner. Seiten: 44; Format: 16x24cm; Umschlag: Leinen Hardcover mit Folienprägung. Das Buch ist in den Sprachen deutsch, französisch und englisch erschienen.
+
+----
+
+Purl: (link: http://www.panart.ch text: www.panart.ch target: _blank)
+
+----
+
+Thumbnail: hang_buch_cover_neu_2.jpg
+
+----
+
+Imglist: 
+
+- 
+  title: ""
+  location: full
+  image: hang_buch_cover_neu.jpg
+- 
+  title: ""
+  location: full
+  image: hang_buch_1.jpg
+- 
+  title: ""
+  location: full
+  image: hang_buch_2.jpg
+- 
+  title: ""
+  location: full
+  image: hang_buch_3.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Webseite
+  location: text
+  image: ""
+- 
+  title: ""
+  location: full
+  image: hang_webdoku_1.jpg
+- 
+  title: ""
+  location: full
+  image: hang_webdoku_2.jpg
+- 
+  title: ""
+  location: full
+  image: panart_webdoku_iphone.jpg
+
+----
+
+Feautured: active
+
+----
+
+Seo: 

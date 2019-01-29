@@ -1,0 +1,74 @@
+Title: Berner Design Stiftung
+
+----
+
+Year: Erscheinungsbild, 2012
+
+----
+
+Text: Visueller Auftritt (Logo, Briefschaft, CD-Manual zu den wichtigsten Aspekten des visuellen Auftritts der Stiftung). Im Jahr 2011 hat sich der Stiftungsrat der Bernischen Stiftung für angewandte Kunst und Gestaltung für einen Namenswechsel und einen neuen visuellen Auftritt der Stiftung entschlossen. Die Berner Design Stiftung soll sich fortan als Kompetenzzentrum für Design im Kanton Bern etablieren. Die Berner Design Stiftung fördert und vermittelt zeitgenössisches Design aus dem Kanton Bern und betreut die kantonale Sammlung angewandte Kunst.
+
+----
+
+Purl: (link: http://www.bernerdesignstiftung.ch text: www.bernerdesignstiftung.ch target: _blank) / (link: https://www.hochparterre.ch/nachrichten/design/blog/post/detail/berner-design-stiftung/1340626014/ text: Hochparterre target: _blank)
+
+----
+
+Thumbnail: 
+
+----
+
+Imglist: 
+
+- 
+  title: Logo
+  location: full
+  image: logo_projekt_bds.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Kleber
+  location: full
+  image: kleber_bds.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: full
+  image: briefschaft_bds_3.jpg
+- 
+  title: Briefschaft
+  location: full
+  image: bds_kuvert.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: half
+  image: bds_cd_manual_1_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: bds_cd_manual_2_2000px.jpg
+- 
+  title: ""
+  location: half
+  image: bds_cd_manual_3_2000px.jpg
+- 
+  title: Auszüge aus dem CD-Manual
+  location: half
+  image: bds_cd_manual_4_2000pxjpg.jpg
+
+----
+
+Seo: 
+
+----
+
+Feautured: 
