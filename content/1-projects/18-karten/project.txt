@@ -35,6 +35,24 @@ Imglist:
   location: line
   image: ""
 - 
+  title: ""
+  location: full
+  image: boeglikramp.jpg
+- 
+  title: ""
+  location: full
+  image: boeglikramp_detail.jpg
+- 
+  title: >
+    Boegli Kramp, Einladungskarte A5,
+    Siebdruck mit Pigmentlack, 2014
+  location: full
+  image: boeglikramp_2.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
   title: Neujahrskarte Ediprim AG, 2018
   location: full
   image: karte_ediprim_2000px.jpg
