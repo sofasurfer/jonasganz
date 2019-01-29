@@ -19,6 +19,10 @@ c::set('license', 'put your license key here');
 c::set('panel.install',true);
 c::set('debug',true);
 
+
+c::set('piwik_token', '8cce872c102b232fcf6ba7a0d4c0ca8a');
+c::set('piwik_baseUrl', 'https://piwik.sofasurfer.org/');
+c::set('piwik_siteId', '36');
 /*
 
 ---------------------------------------

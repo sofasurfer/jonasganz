@@ -37,11 +37,19 @@ Imglist:
   location: line
   image: ""
 - 
+  title: "Flyer Rückseite «L'heure bleue», 2013"
+  location: full
+  image: romandie_flyer.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
   title: ""
   location: full
   image: romandie_faltblatt_back.jpg
 - 
-  title: Faltblatt A2-Poster, 2013
+  title: Faltblatt A2 mit Poster
   location: full
   image: romandie_faltblatt_2.jpg
 

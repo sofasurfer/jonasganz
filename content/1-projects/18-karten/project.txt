@@ -1,0 +1,48 @@
+Title: Karten
+
+----
+
+Year: Diverse Karten 2013–2018
+
+----
+
+Text: 
+
+----
+
+Purl: 
+
+----
+
+Thumbnail: 
+
+----
+
+Imglist: 
+
+- 
+  title: ""
+  location: full
+  image: louiekarte.jpg
+- 
+  title: >
+    Geburtskarte, Letterpress auf Baumwolle
+    Karton, 2013
+  location: full
+  image: louie.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: Neujahrskarte Ediprim AG, 2018
+  location: full
+  image: karte_ediprim_2000px.jpg
+
+----
+
+Seo: 
+
+----
+
+Feautured: 

@@ -18,7 +18,7 @@ Purl: (link: http://1000-fragen.ch/ text: www.1000-fragen.ch target: _blank)
 
 ----
 
-Thumbnail: 1000fragen_karten_braun_2000px.jpg
+Thumbnail: 1000fragen_karten_braun_ausschnitt_2000px.jpg
 
 ----
 

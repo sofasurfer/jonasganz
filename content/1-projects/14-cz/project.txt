@@ -33,13 +33,29 @@ Imglist:
   location: half
   image: cz_vk_front.jpg
 - 
-  title: ""
+  title: Visitenkarte mit Hochprägung
   location: half
   image: cz_vk_back.jpg
 - 
   title: ""
+  location: line
+  image: ""
+- 
+  title: Briefschaft
   location: full
   image: cz_briefschaft_2.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: ""
+  location: full
+  image: cz_kuvert_3.jpg
+- 
+  title: Kuvert C6/5 mit bedruckter Lasche
+  location: full
+  image: cz_kuvert_4.jpg
 
 ----
 
