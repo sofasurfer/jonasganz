@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Intro: Als selbstständiger Grafiker arbeitet Jonas Ganz seit 2004 in Biel. Der Arbeitsbereich umfasst die Konzeption und Gestaltung von visuellen Identitäten mit Spezialisierung auf Logos, Broschüren und Briefschaften, Bücher und Schallplattencover sowie Webseiten. Die Ausdrucksweise ist durch Ästhetik, Reduzierung auf das Wesentliche und Dauerhaftigkeit geprägt. Ein eingespieltes Netzwerk aus Bereichen wie Fotografie, Programmierung und Text rundet das Angebot ab. Die Zusammenarbeit beginnt mit einem Espresso im einladenden Bieler Ladenlokal. Vous y êtes bienvenus.
+Intro: Seit 2004 bin ich als selbstständiger Grafiker in Biel tätig. In meiner Arbeit lege ich Wert auf eine klare Formensprache und Reduktion auf das Wesentliche. Ich gestalte visuelle Identitäten mit Spezialisierung auf Logos, angewendet auf Briefschaften, Plakaten, Büchern, Webseiten und vielem mehr. Ein eingespieltes Netzwerk aus den Bereichen Fotografie, Programmierung und Text erweitert das Angebot. Die Zusammenarbeit beginnt mit einem Espresso im einladenden Bieler Atelier. Vous y êtes bienvenus.
 
 ----
 
@@ -20,4 +20,4 @@ Seo:
 
 -
   seo-title: "Jonas Ganz / Grafiker"
-  seo-description: "Als selbstständiger Grafiker arbeitet Jonas Ganz seit 2004 in Biel. Der Arbeitsbereich umfasst die Konzeption und Gestaltung von visuellen Identitäten mit Spezialisierung auf Logos, Broschüren und Briefschaften, Bücher und Schallplattencover sowie Webseiten. Die Ausdrucksweise ist durch Ästhetik, Reduzierung auf das Wesentliche und Dauerhaftigkeit geprägt. Ein eingespieltes Netzwerk aus Bereichen wie Fotografie, Programmierung und Text rundet das Angebot ab. Die Zusammenarbeit beginnt mit einem Espresso im einladenden Bieler Ladenlokal. Vous y êtes bienvenus."
+  seo-description: "Seit 2004 bin ich als selbstständiger Grafiker in Biel tätig. In meiner Arbeit lege ich Wert auf eine klare Formensprache und Reduktion auf das Wesentliche. Ich gestalte visuelle Identitäten mit Spezialisierung auf Logos, angewendet auf Briefschaften, Plakaten, Büchern, Webseiten und vielem mehr. Ein eingespieltes Netzwerk aus den Bereichen Fotografie, Programmierung und Text erweitert das Angebot. Die Zusammenarbeit beginnt mit einem Espresso im einladenden Bieler Atelier. Vous y êtes bienvenus."

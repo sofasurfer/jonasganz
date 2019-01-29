@@ -5,7 +5,7 @@ Title: Contact
 Text: 
 
 # Info
-Als selbstständiger Grafiker arbeitet Jonas Ganz seit 2004 in Biel. Der Arbeitsbereich umfasst die Konzeption und Gestaltung von visuellen Identitäten mit Spezialisierung auf Logos, Broschüren und Briefschaften, Bücher und Schallplattencover sowie Webseiten. Die Ausdrucksweise ist durch Ästhetik, Reduzierung auf das Wesentliche und Dauerhaftigkeit geprägt. Ein eingespieltes Netzwerk aus Bereichen wie Fotografie, Programmierung und Text rundet das Angebot ab. Die Zusammenarbeit beginnt mit einem Espresso im einladenden Bieler Ladenlokal. Vous y êtes bienvenus.
+Seit 2004 bin ich als selbstständiger Grafiker in Biel tätig. In meiner Arbeit lege ich Wert auf eine klare Formensprache und Reduktion auf das Wesentliche. Ich gestalte visuelle Identitäten mit Spezialisierung auf Logos, angewendet auf Briefschaften, Plakaten, Büchern, Webseiten und vielem mehr. Ein eingespieltes Netzwerk aus den Bereichen Fotografie, Programmierung und Text erweitert das Angebot. Die Zusammenarbeit beginnt mit einem Espresso im einladenden Bieler Atelier. Vous y êtes bienvenus.
 
 Seit 2004 selbstständig tätig als Grafiker in Biel
 2004–2019 Freelancer für Werbeagenturen und Grafikateliers 
@@ -139,6 +139,7 @@ Text2:
 ## Abgebildet
 2014 (link: https://gestalten.com/products/los-logos-7/ text: Los Logos 7 target: _blank), Die Gestalten Verlag Berlin
 2012 (link: https://gestalten.com/pages/search-results-page?q=los+logos/ text: Los Logos 6 target: _blank), Die Gestalten Verlag Berlin
+2012 (link: https://www.hochparterre.ch/nachrichten/design/blog/post/detail/berner-design-stiftung/1340626014/ text: Hochparterre target: _blank) Berner Design Stiftung
 2008 (link: https://wolda.org/en/wolda-results-2008/ text: The Wolda Annual target: _blank), Logolounge & Wolda, Eulda Books Italy
 2006 (link: https://gestalten.com/pages/search-results-page?q=los+logos/ text: Los Logos 3 target: _blank), Die Gestalten Verlag Berlin
 2002 (link: https://gestalten.com/pages/search-results-page?q=los+logos/ text: Los Logos target: _blank), Die Gestalten Verlag Berlin

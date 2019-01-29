@@ -576,6 +576,17 @@ figure.img-half.right {
         margin-left: 30px;
         margin-right: 30px;
     }
+
+    figure.img-half{
+        width: calc( 50% - 2px );
+        margin-left: -15px;
+    }
+
+    figure.img-half.right {
+        width: calc( 50% - 2px );        
+        margin-right: -15px;
+    } 
+
     .container-fluid.main{
         padding-top: 120px;
         padding-left: 0px;
