@@ -89,18 +89,18 @@ Formel zwei, Bern
 Gesellschaft Schweizer Tierärzte, Thörishaus
 Gilgen Door Systems, Schwarzenburg
 Giovanni Cancellara, Biel
-Girard Lena, Alexander- Technik, Biel
+Girard Lena, Alexander-Technik, Biel
 Grabenöle Lüterswil
 Grip climbing, Biel
 Hans, Hausarzt Notfall Seeland, Aarberg
 Heim Decor, Biel
 Hirt AG, Evilard
-IMG, Interessengemeinschaft Medizinische Grundversorgung, Bern
 
 ----
 
 Client2: 
 
+IMG, Interessengemeinschaft Medizinische Grundversorgung, Bern
 Jelmoli, Zürich
 Kando, Felix Mosimann, Biel
 Kirchgemeinde Erlach-Tschugg
@@ -124,7 +124,6 @@ Stepping Stone GmbH, Bern
 Tourismus Erlach
 TWIN Productions AG, Biel
 VBG, Bern
-Visuelle Gestaltung Hertig+Seliner, Biel
 Walter Meier AG, Schwerzenbach
 Zbären+Partner, Rechts- & Wirtschaftsberatung, Biel
 

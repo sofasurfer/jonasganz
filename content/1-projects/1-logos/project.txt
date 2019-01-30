@@ -128,7 +128,7 @@ Imglist:
   location: half
   image: logo_09_2000px.jpg
 - 
-  title: nuIIneun architektur / Nidau / 2011
+  title: '(link: http://www.nullneun.ch/text: nuIIneun architektur target: _blank) / Nidau / 2011'
   location: half
   image: 09_bild_2000px.jpg
 - 
@@ -152,7 +152,7 @@ Imglist:
   location: half
   image: logo_bds_2000px.jpg
 - 
-  title: 'Berner Design Stiftung / 2012 / (link: http://www.bernerdesignstiftung.ch//text: BDS target: _blank)'
+  title: 'Berner Design Stiftung / 2012 / (link: http://www.bernerdesignstiftung.ch/text: BDS target: _blank)'
   location: half
   image: bds_bild_2000px.jpg
 - 
@@ -236,9 +236,7 @@ Imglist:
   location: half
   image: logo_hans_2000px.jpg
 - 
-  title: >
-    Hausarzt Notfall Seeland / Aarberg /
-    2008
+  title: '(link: https://www.hans-notfall.ch/text: Hausarzt Notfall Seeland target: _blank) / Aarberg / 2008'
   location: half
   image: hans_bild_2000px.jpg
 - 

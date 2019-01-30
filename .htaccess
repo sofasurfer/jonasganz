@@ -22,25 +22,35 @@ RewriteEngine on
 # RewriteBase /
 
 # block text files in the content folder from being accessed directly
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
 
 # block all files in the site folder from being accessed directly
 # except for requests to plugin assets files
 #RewriteRule ^assets/plugins/([a-zA-Z0-9\.\-_%=]+)/(.*)$ site/plugins/$1/assets/$2 [L,N]
 #RewriteCond $1 !^plugins/[a-zA-Z0-9\.\-_%=]+/assets/.*
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^site/(.*) index.php [L]
 
 # block direct access to kirby and the panel sources
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^(kirby|panel\/app|panel\/tests)/(.*) index.php [L]
 
 # make panel links work
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^panel/(.*) panel/index.php [L]
 
 # make site links work
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^(.*) index.php [L]
 
 </IfModule>
@@ -51,3 +61,9 @@ RewriteRule ^(.*) index.php [L]
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on
+RewriteCond %{HTTP_HOST} ^jonasganz\.ch$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.jonasganz\.ch$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ "https\:\/\/www\.jonasganz\.ch\/$1" [R=301,L]
+

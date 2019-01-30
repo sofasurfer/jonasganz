@@ -6,11 +6,7 @@ Year: Erscheinungsbild, 2016 und 2018
 
 ----
 
-Text: 
-
-Erscheinungsbild für die «Nacht der 1000 Fragen – Das Zeitfestival in Biel». 
-Die «Nacht der 1000 Fragen» ist ein Festival in der Bieler Altstadt, welches den Besuchern während 12 Stunden eine breite Palette an interdisziplinären Angeboten wie Ausstellungen, Vorträgen, Theateraufführungen, Stadtrundgängen, Podiumsdiskussionen, Konzerten, Workshops und Lesungen bietet. 2018 lag der Fokus auf dem Thema Wiederholung.
-Logo, Programmheft, Flyer, Plakat und Webauftritt
+Text: Erscheinungsbild für die «Nacht der 1000 Fragen – Das Zeitfestival in Biel». Die «Nacht der 1000 Fragen» ist ein Festival in der Bieler Altstadt, welches den Besuchern während 12 Stunden eine breite Palette an interdisziplinären Angeboten wie Ausstellungen, Vorträgen, Theateraufführungen, Stadtrundgängen, Podiumsdiskussionen, Konzerten, Workshops und Lesungen bietet. 2018 lag der Fokus auf dem Thema Wiederholung. Logo, Programmheft, Flyer, Plakat und Webauftritt.
 
 ----
 
@@ -45,7 +41,7 @@ Imglist:
   location: line
   image: ""
 - 
-  title: Plakat F4, Siebdruck Uldry
+  title: 'Plakat F4, Siebdruck (link: http://uldry.ch/ text: Uldry target: _blank)'
   location: text
   image: ""
 - 

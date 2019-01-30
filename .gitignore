@@ -10,8 +10,8 @@ Icon
 /thumbs/*
 !/thumbs/index.html
 
-#/content/*
-#!/content/index.html
+/content/*
+!/content/index.html
 
 /site/cache/*
 !/site/cache/index.html
