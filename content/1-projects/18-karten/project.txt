@@ -25,11 +25,17 @@ Imglist:
   location: full
   image: louiekarte.jpg
 - 
-  title: >
-    Geburtskarte, Letterpress auf Baumwolle
-    Karton, 2013
+  title: 'Geburtskarte, (link: http://www.karikani.com/ text: Letterpress target: _blank) auf Baumwollkarton, 2013'
   location: full
   image: louie.jpg
+- 
+  title: ""
+  location: line
+  image: ""
+- 
+  title: 'Neujahrskarte für die (link: http://ediprim.ch/ text: Ediprim AG target: _blank), 2018'
+  location: full
+  image: karte_ediprim_2000px.jpg
 - 
   title: ""
   location: line
@@ -43,9 +49,7 @@ Imglist:
   location: full
   image: boeglikramp_detail.jpg
 - 
-  title: >
-    Boegli Kramp, Einladungskarte A5,
-    Siebdruck mit Pigmentlack, 2014
+  title: '(link: https://www.boeglikramp.ch/ text: Boeglikramp target: _blank), Einladungskarte A5, (link: http://www.lorenzboegli.ch/ text: Siebdruck target: _blank) mit Pigmentlack, 2014'
   location: full
   image: boeglikramp_2.jpg
 - 
@@ -53,9 +57,15 @@ Imglist:
   location: line
   image: ""
 - 
-  title: Neujahrskarte Ediprim AG, 2018
+  title: ""
   location: full
-  image: karte_ediprim_2000px.jpg
+  image: karte_annouk-filippo_2000px.jpg
+- 
+  title: |
+    Hochzeitskarte, (link: http://www.karikani.com/ text: Letterpress target: _blank) auf Baumwollkarton, 2015
+    Illustration Vogel: Raphaël Rapin
+  location: full
+  image: letterpress_detail.jpg
 
 ----
 
