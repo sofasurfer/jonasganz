@@ -8,7 +8,7 @@ options:
 
 fields:
   seo: seo
-  
+ 
   title:
     label: Title
     type: title
